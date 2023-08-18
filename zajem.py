@@ -8,11 +8,3 @@ for i in range(1, 16):
     orodja.shrani_spletno_stran(
         url, 'strani/kolesar_{}.html'.format(i)
 )
-
-
-
-
-
-
-
-
