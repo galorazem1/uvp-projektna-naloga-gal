@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import os
 import csv
-import re
 
 # Dobljen niz pretvori v število, znebi se znakov za milijarde, milijone in dolarje
 # Če na spletni strani ni podatkov o tržnem kapitali oz. ceni delnice (je N/A), funkcija vrne 0
