@@ -1,6 +1,6 @@
 Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na delnico ($)
 1,JPMorgan Chase,JPM,USA,432.61,148.86
-2,Bank of America ,BAC,USA,229.42,28.84
+2,Bank of America,BAC,USA,229.42,28.84
 3,ICBC,1398.HK,China,194.45,0.43
 4,Agricultural Bank of China,601288.SS,China,160.58,0.47
 5,HDFC Bank,HDB,India,158.94,63.26
@@ -21,48 +21,37 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 20,Al Rajhi Bank,1120.SR,S. Arabia,77.41,19.35
 21,UBS,UBS,Switzerland,76.23,23.4
 22,BNP Paribas,BNP.PA,France,75.69,63.52
-23,"Bank Central Asia
-",BBCA.JK,Indonesia,73.83,0.6
-24,"Postal Savings Bank of China
-",601658.SS,China,63.48,0.66
+23,Bank Central Asia,BBCA.JK,Indonesia,73.83,0.6
+24,Postal Savings Bank of China,601658.SS,China,63.48,0.66
 25,Santander,SAN,Spain,63.1,3.85
 26,DBS Group,D05.SI,Singapore,61.74,23.94
-27,"State Bank of India
-",SBIN.NS,India,61.39,6.88
+27,State Bank of India,SBIN.NS,India,61.39,6.88
 28,Housing Development Finance Corporation,HDFC.NS,India,60.86,32.88
-29,"Bank of Montreal
-",BMO,Canada,59.6,83.6
+29,Bank of Montreal,BMO,Canada,59.6,83.6
 30,Sumitomo Mitsui Financial Group,SMFG,Japan,57.58,8.59
 31,The Saudi National Bank,1180.SR,S. Arabia,56.9,9.54
 32,U.S. Bancorp,USB,USA,56.11,36.6
 33,National Australia Bank,NAB.AX,Australia,55.2,17.63
 34,Scotiabank,BNS,Canada,55.0,45.86
-35,"Bank Rakyat Indonesia
-",BBRI.JK,Indonesia,54.17,0.36
-36,"Itaú Unibanco
-",ITUB,Brazil,52.5,5.36
-37,"ING
-",ING,Netherlands,50.97,14.12
+35,Bank Rakyat Indonesia,BBRI.JK,Indonesia,54.17,0.36
+36,Itaú Unibanco,ITUB,Brazil,52.5,5.36
+37,ING,ING,Netherlands,50.97,14.12
 38,Bank of Communications,601328.SS,China,48.96,0.75
 39,PNC Financial Services,PNC,USA,48.5,121.88
 40,Intesa Sanpaolo,ISP.MI,Italy,48.49,2.66
 41,ANZ Bank,ANZ.AX,Australia,47.08,15.5
 42,Banco Bilbao Vizcaya Argentaria,BBVA,Spain,46.4,7.74
 43,Westpac Banking,WBC.AX,Australia,46.2,13.19
-44,"Industrial Bank
-",601166.SS,China,44.77,2.16
-45,"CITIC Securities
-",600030.SS,China,43.32,3.15
+44,Industrial Bank,601166.SS,China,44.77,2.16
+45,CITIC Securities,600030.SS,China,43.32,3.15
 46,UniCredit,UCG.MI,Italy,43.03,23.83
-47,"Kotak Mahindra Bank
-",KOTAKBANK.NS,India,42.09,21.18
+47,Kotak Mahindra Bank,KOTAKBANK.NS,India,42.09,21.18
 48,Macquarie,MQG.AX,Australia,42.06,108.81
 49,First Abu Dhabi Bank,FAB.AE,UAE,41.45,3.75
 50,QNB (Qatar National Bank),QNBK.QA,Qatar,40.75,4.41
 51,OCBC Bank,O39.SI,Singapore,40.4,8.99
 52,Capital One,COF,USA,39.47,103.5
-53,"Mizuho Financial Group
-",MFG,Japan,39.4,3.11
+53,Mizuho Financial Group,MFG,Japan,39.4,3.11
 54,Banco Santander Brasil,BSBR,Brazil,39.27,5.26
 55,Nordea Bank,NDA-FI.HE,Finland,39.15,10.95
 56,Truist Financial,TFC,USA,37.6,28.23
@@ -70,118 +59,86 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 58,CIBC,CM,Canada,36.24,39.46
 59,Kuwait Finance House,KFH.KW,Kuwait,35.51,2423.0
 60,Bank Mandiri,BMRI.JK,Indonesia,35.48,0.38
-61,"Axis Bank
-",AXISBANK.BO,India,35.3,11.46
+61,Axis Bank,AXISBANK.BO,India,35.3,11.46
 62,Nu Holdings,NU,Brazil,34.34,7.32
-63,"Lloyds Banking Group
-",LYG,UK,34.3,2.12
+63,Lloyds Banking Group,LYG,UK,34.3,2.12
 64,UOB,U11.SI,Singapore,34.26,20.45
 65,Bank of New York Mellon,BK,USA,33.76,43.36
 66,Maybank,MLYBY,Malaysia,32.84,5.45
 67,CITIC Bank,601998.SS,China,32.17,0.75
 68,Banco Bradesco,BBD,Brazil,31.93,3.0
 69,CaixaBank,CABK.MC,Spain,30.9,4.12
-70,"Ping An Bank
-",000001.SZ,China,30.15,1.55
+70,Ping An Bank,000001.SZ,China,30.15,1.55
 71,Barclays,BCS,UK,28.76,7.37
-72,"Japan Post Bank
-",7182.T,Japan,28.52,7.89
+72,Japan Post Bank,7182.T,Japan,28.52,7.89
 73,Bank of China (Hong Kong),2388.HK,Hong Kong,28.19,2.67
-74,"Shanghai Pudong Development Bank
-",600000.SS,China,28.04,0.96
-75,"Banco do Brasil
-",BBAS3.SA,Brazil,27.15,9.51
+74,Shanghai Pudong Development Bank,600000.SS,China,28.04,0.96
+75,Banco do Brasil,BBAS3.SA,Brazil,27.15,9.51
 76,NatWest Group,NWG,UK,26.06,5.76
 77,Standard Chartered,STAN.L,UK,25.55,9.16
-78,"National Bank of Canada
-",NA.TO,Canada,24.82,73.47
+78,National Bank of Canada,NA.TO,Canada,24.82,73.47
 79,Fubon Financial,2881.TW,Taiwan,24.49,1.98
-80,"Bank of Ningbo
-",002142.SZ,China,24.24,3.67
-81,"Hang Seng Bank
-",0011.HK,Hong Kong,24.06,12.59
+80,Bank of Ningbo,002142.SZ,China,24.24,3.67
+81,Hang Seng Bank,0011.HK,Hong Kong,24.06,12.59
 82,Riyad Bank,1010.SR,S. Arabia,24.02,8.01
 83,Skandinaviska Enskilda Banken,SEB-A.ST,Sweden,23.86,11.39
 84,National Bank of Kuwait,NBK.KW,Kuwait,23.56,2972.0
-85,"China Everbright Bank
-",601818.SS,China,22.84,0.41
-86,"Société Générale
-",GLE.PA,France,22.2,27.71
-87,"China Minsheng Bank
-",600016.SS,China,22.06,0.54
+85,China Everbright Bank,601818.SS,China,22.84,0.41
+86,Société Générale,GLE.PA,France,22.2,27.71
+87,China Minsheng Bank,600016.SS,China,22.06,0.54
 88,Deutsche Bank,DB,Germany,21.83,10.68
-89,"State Street Corporation
-",STT,USA,21.5,66.78
+89,State Street Corporation,STT,USA,21.5,66.78
 90,FirstRand,FSR.JO,South Africa,21.13,3.77
 91,M&T Bank,MTB,USA,21.08,127.09
 92,Cathay Financial Holding,2882.TW,Taiwan,20.85,1.42
-93,"ORIX
-",IX,Japan,20.85,89.19
-94,"Danske Bank
-",DANS.VI,Denmark,20.08,23.39
-95,"First Citizens BancShares
-",FCNCA,USA,19.91,1381.0
+93,ORIX,IX,Japan,20.85,89.19
+94,Danske Bank,DANS.VI,Denmark,20.08,23.39
+95,First Citizens BancShares,FCNCA,USA,19.91,1381.0
 96,Swedbank,SWED-A.ST,Sweden,19.59,17.42
-97,The Saudi British Bank ,1060.SR,S. Arabia,19.49,9.49
+97,The Saudi British Bank,1060.SR,S. Arabia,19.49,9.49
 98,Alinma Bank,1150.SR,S. Arabia,19.03,9.56
-99,"Fifth Third Bank
-",FITB,USA,17.4,25.56
+99,Fifth Third Bank,FITB,USA,17.4,25.56
 100,PBBank (Public Bank Bhd),1295.KL,Malaysia,17.29,0.89
 101,Abu Dhabi Commercial Bank (ADCB),ADCB.AE,UAE,17.22,2.35
 102,Guotai Junan Securities,601211.SS,China,17.06,2.04
 103,Standard Bank Group,SBK.JO,South Africa,16.68,10.12
-104,"Svenska Handelsbanken
-",SHB-A.ST,Sweden,16.48,8.29
-105,"Huntington Bancshares
-",HBAN,USA,16.01,11.06
+104,Svenska Handelsbanken,SHB-A.ST,Sweden,16.48,8.29
+105,Huntington Bancshares,HBAN,USA,16.01,11.06
 106,MFHC,2886.TW,Taiwan,15.54,1.11
 107,Bank of Jiangsu,600919.SS,China,15.12,0.97
 108,KB Financial Group,KB,S. Korea,14.85,38.66
-109,"CTBC Financial Holding
-",2891.TW,Taiwan,14.62,0.75
+109,CTBC Financial Holding,2891.TW,Taiwan,14.62,0.75
 110,Erste Group Bank,EBO.F,Austria,14.55,35.76
 111,Commerzbank,CBK.F,Germany,13.91,11.11
 112,BDO Unibank,BDOUY,Philippines,13.88,24.72
 113,Julius Bär,BAER.SW,Switzerland,13.73,67.14
-114,"IndusInd Bank
-",INDUSINDBK.NS,India,13.05,16.82
+114,IndusInd Bank,INDUSINDBK.NS,India,13.05,16.82
 115,Citizens Financial Group,CFG,USA,13.0,27.39
 116,Bank of Beijing,601169.SS,China,12.94,0.61
 117,CIMB Group,1023.KL,Malaysia,12.85,1.21
 118,Qatar Islamic Bank,QIBK.QA,Qatar,12.84,5.44
-119,"Shinkin Central Bank
-",8421.T,Japan,12.58,1877.0
-120,"ABN AMRO
-",ABN.AS,Netherlands,12.53,14.48
+119,Shinkin Central Bank,8421.T,Japan,12.58,1877.0
+120,ABN AMRO,ABN.AS,Netherlands,12.53,14.48
 121,Banque Saudi Fransi,1050.SR,S. Arabia,12.48,10.41
 122,Hua Xia Bank,600015.SS,China,12.1,0.76
-123,"Bank Leumi
-",LUMI.TA,Israel,11.95,7.79
-124,"Bank of Baroda
-",BANKBARODA.NS,India,11.88,2.3
-125,AIB Group (Allied Irish Banks) ,A5G.IR,Ireland,11.86,4.53
+123,Bank Leumi,LUMI.TA,Israel,11.95,7.79
+124,Bank of Baroda,BANKBARODA.NS,India,11.88,2.3
+125,AIB Group (Allied Irish Banks),A5G.IR,Ireland,11.86,4.53
 126,Bank of Nanjing,601009.SS,China,11.8,1.14
 127,E.SUN Bank,2884.TW,Taiwan,11.73,0.78
 128,Taiwan Cooperative Financial,5880.TW,Taiwan,11.69,0.83
 129,Bank of Shanghai,601229.SS,China,11.68,0.82
-130,"Resona Holdings
-",8308.T,Japan,11.62,4.89
-131,"Bank Hapoalim
-",POLI.TA,Israel,11.41,8.53
-132,"PKO Bank Polski
-",PKO.WA,Poland,11.26,9.01
+130,Resona Holdings,8308.T,Japan,11.62,4.89
+131,Bank Hapoalim,POLI.TA,Israel,11.41,8.53
+132,PKO Bank Polski,PKO.WA,Poland,11.26,9.01
 133,Nomura Holdings,NMR,Japan,11.18,3.67
-134,"OTP Bank
-",OTP.BD,Hungary,11.16,40.03
-135,"Bank Negara Indonesia
-",BBNI.JK,Indonesia,11.1,0.6
+134,OTP Bank,OTP.BD,Hungary,11.16,40.03
+135,Bank Negara Indonesia,BBNI.JK,Indonesia,11.1,0.6
 136,Bank Albilad,1140.SR,S. Arabia,11.01,11.01
 137,Credicorp,BAP,Bermuda,10.98,138.17
 138,First Financial Holding,2892.TW,Taiwan,10.87,0.82
-139,"SCB (Siam Commercial Bank)
-",SCB.BK,Thailand,10.83,3.22
-140,"Banco de Chile
-",BCH,Chile,10.74,21.28
+139,SCB (Siam Commercial Bank),SCB.BK,Thailand,10.83,3.22
+140,Banco de Chile,BCH,Chile,10.74,21.28
 141,QNB Finansbank,QNBFB.IS,Turkey,10.72,3.2
 142,Mediobanca,MB.MI,Italy,10.7,12.74
 143,Bank of Ireland Group,BIRG.IR,Ireland,10.62,10.06
@@ -193,70 +150,52 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 149,Yuanta Financial Holding,2885.TW,Taiwan,9.35,0.75
 150,Santander Polska,SPL.WA,Poland,9.35,91.55
 151,Banque Cantonale Vaudoise,BCVN.SW,Switzerland,9.32,108.53
-152,"Bangkok Bank
-",BBL.BK,Thailand,9.25,4.85
+152,Bangkok Bank,BBL.BK,Thailand,9.25,4.85
 153,KakaoBank,323410.KS,S. Korea,9.1,19.12
 154,Hua Nan Financial Holdings,2880.TW,Taiwan,8.92,0.65
 155,(HLBank) Hong Leong Bank,5819.KL,Malaysia,8.9,4.27
 156,Mizrahi-Tefahot,MZTF.TA,Israel,8.86,34.43
 157,Kasikornbank,KBANK.BK,Thailand,8.8,3.66
-158,"New York Community Bank
-",NYCB,USA,8.62,11.95
+158,New York Community Bank,NYCB,USA,8.62,11.95
 159,Banco Santander-Chile,BSAC,Chile,8.61,18.28
-160,"Punjab National Bank
-",PNB.NS,India,8.26,0.75
-161,"Ally
-",ALLY,USA,8.09,26.84
-162,"IDBI Bank
-",IDBI.NS,India,7.84,0.73
+160,Punjab National Bank,PNB.NS,India,8.26,0.75
+161,Ally,ALLY,USA,8.09,26.84
+162,IDBI Bank,IDBI.NS,India,7.84,0.73
 163,Krung Thai Bank,KTB.BK,Thailand,7.84,0.56
 164,Boubyan Bank,BOUBYAN.KW,Kuwait,7.82,1975.0
 165,GarantiBank,GARAN.IS,Turkey,7.69,1.83
-166,"East West Bancorp
-",EWBC,USA,7.65,54.07
-167,"Daiwa Securities Group
-",8601.T,Japan,7.62,5.25
+166,East West Bancorp,EWBC,USA,7.65,54.07
+167,Daiwa Securities Group,8601.T,Japan,7.62,5.25
 168,China Zheshang Bank,2016.HK,China,7.6,0.27
 169,Union Bank of India,UNIONBANK.NS,India,7.55,1.1
-170,"Jefferies Financial Group
-",JEF,USA,7.53,34.1
-171,"Taishin Financial Holdings
-",2887.TW,Taiwan,7.24,0.56
+170,Jefferies Financial Group,JEF,USA,7.53,34.1
+171,Taishin Financial Holdings,2887.TW,Taiwan,7.24,0.56
 172,Webster Financial,WBS,USA,7.21,41.67
 173,Banco BPM,BAMI.MI,Italy,7.2,4.78
-174,"Canara Bank
-",CANBK.NS,India,7.16,3.95
-175,"IDFC FIRST Bank
-",IDFCFIRSTB.NS,India,7.15,1.08
-176,"Indian Overseas Bank
-",IOB.NS,India,7.07,0.37
+174,Canara Bank,CANBK.NS,India,7.16,3.95
+175,IDFC FIRST Bank,IDFCFIRSTB.NS,India,7.15,1.08
+176,Indian Overseas Bank,IOB.NS,India,7.07,0.37
 177,First Horizon National,FHN,USA,7.04,12.6
-178,"Bancolombia
-",CIB,Colombia,6.9,27.3
+178,Bancolombia,CIB,Colombia,6.9,27.3
 179,Bank Pekao (Bank Polska Kasa Opieki),PEO.WA,Poland,6.81,25.98
-180,"Banco Sabadell
-",SAB.MC,Spain,6.73,1.21
+180,Banco Sabadell,SAB.MC,Spain,6.73,1.21
 181,The Commercial Bank (P.S.Q.C.),CBQK.QA,Qatar,6.71,1.66
 182,Sinopac Financial Holdings,2890.TW,Taiwan,6.55,0.54
-183,"Banca Mediolanum
-",BMED.MI,Italy,6.52,8.83
+183,Banca Mediolanum,BMED.MI,Italy,6.52,8.83
 184,Shanghai Commercial and Savings Bank,5876.TW,Taiwan,6.47,1.34
 185,National Bank of Greece,ETE.AT,Greece,6.37,6.97
 186,Türkiye Is Bankasi,ISCTR.IS,Turkey,6.25,0.62
 187,Industrial Bank of Korea (IBK),024110.KS,S. Korea,6.2,7.78
-188,"Commerce Bancshares
-",CBSH,USA,6.18,49.61
+188,Commerce Bancshares,CBSH,USA,6.18,49.61
 189,Woori Financial Group,WF,S. Korea,6.15,25.35
 190,Cullen/Frost Bankers,CFR,USA,6.15,95.52
 191,China Development Financial,2883.TW,Taiwan,6.15,0.37
 192,Eurobank Ergasias Services and Holdings,EUROB.AT,Greece,6.13,1.65
-193,"Indian Bank
-",INDIANB.NS,India,6.11,4.91
+193,Indian Bank,INDIANB.NS,India,6.11,4.91
 194,Komerční banka,KOMB.PR,Czech Republic,6.11,32.36
 195,Masraf Al Rayan,MARK.QA,Qatar,5.94,0.64
 196,Bankinter,BKT.MC,Spain,5.89,6.56
-197,"Yes Bank
-",YESBANK.NS,India,5.86,0.2
+197,Yes Bank,YESBANK.NS,India,5.86,0.2
 198,Chang Hwa Commercial Bank,2801.TW,Taiwan,5.72,0.54
 199,AU Small Finance Bank,AUBANK.NS,India,5.69,8.53
 200,Chiba Bank,CHBAY,Japan,5.52,37.38
@@ -265,22 +204,16 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 203,South State Corp,SSB,USA,5.4,71.19
 204,Nedbank,NED.JO,South Africa,5.36,11.01
 205,Chongqing Rural Commercial Bank,3618.HK,China,5.32,0.34
-206,"Western Alliance Bancorporation
-",WAL,USA,5.26,48.04
+206,Western Alliance Bancorporation,WAL,USA,5.26,48.04
 207,Discovery Limited,DSY.JO,South Africa,5.12,7.78
-208,"Pinnacle Financial Partners
-",PNFP,USA,5.11,66.61
-209,"Zions Bancorporation
-",ZION,USA,5.06,34.19
-210,"Yapı Kredi
-",YKBNK.IS,Turkey,4.97,0.59
+208,Pinnacle Financial Partners,PNFP,USA,5.11,66.61
+209,Zions Bancorporation,ZION,USA,5.06,34.19
+210,Yapı Kredi,YKBNK.IS,Turkey,4.97,0.59
 211,Commercial International Bank,CIN.F,Egypt,4.86,1.15
-212,"TMBThanachart Bank (ttb)
-",TTB.BK,Thailand,4.85,0.05
-213,"Banco de Crédito e Inversiones
-",BCI.SN,Chile,4.85,28.78
+212,TMBThanachart Bank (ttb),TTB.BK,Thailand,4.85,0.05
+213,Banco de Crédito e Inversiones,BCI.SN,Chile,4.85,28.78
 214,Wintrust Financial,WTFC,USA,4.72,77.27
-215,Banco Popular ,BPOP,USA,4.71,65.45
+215,Banco Popular,BPOP,USA,4.71,65.45
 216,Hong Leong Financial Group,1082.KL,Malaysia,4.64,3.98
 217,Jyske Bank,JYSK.CO,Denmark,4.63,72.11
 218,Metropolitan Bank (Metrobank),MTPOF,Philippines,4.63,1.03
@@ -288,28 +221,21 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 220,Shin Kong Financial Holding,2888.TW,Taiwan,4.53,0.29
 221,Piraeus Financial Holdings,TPEIR.AT,Greece,4.52,3.62
 222,Saudi Investment Bank,1030.SR,S. Arabia,4.48,4.48
-223,"Bank OZK
-",OZK,USA,4.47,39.52
-224,"Bandhan Bank
-",BANDHANBNK.NS,India,4.46,2.77
-225,"Synovus
-",SNV,USA,4.45,30.47
-226,"Bank of India
-",BANKINDIA.NS,India,4.41,1.08
+223,Bank OZK,OZK,USA,4.47,39.52
+224,Bandhan Bank,BANDHANBNK.NS,India,4.46,2.77
+225,Synovus,SNV,USA,4.45,30.47
+226,Bank of India,BANKINDIA.NS,India,4.41,1.08
 227,Galicia Financial Group,GGAL,Argentina,4.34,14.8
 228,mBank,MBK.WA,Poland,4.33,102.21
 229,BPER Banca,BPE.MI,Italy,4.25,3.01
 230,Fukuoka Financial Group,8354.T,Japan,4.21,22.44
-231,"Cadence Bancorp
-",CADE,USA,4.19,22.98
+231,Cadence Bancorp,CADE,USA,4.19,22.98
 232,Luzerner Kantonalbank,LUKN.SW,Switzerland,4.19,84.58
 233,Qatar International Islamic Bank,QIIK.QA,Qatar,4.17,2.76
-234,"F.N.B. Corporation
-",FNB,USA,4.16,11.6
+234,F.N.B. Corporation,FNB,USA,4.16,11.6
 235,First Financial Bankshares,FFIN,USA,4.14,29.07
 236,First International Bank of Israel,FIBI.TA,Israel,4.12,41.12
-237,"Banco Macro
-",BMA,Argentina,4.09,22.03
+237,Banco Macro,BMA,Argentina,4.09,22.03
 238,Banco Comercial Português (Millennium bcp),BCP.LS,Portugal,4.06,0.27
 239,JSC Halyk Bank,H4L1.F,Kazakhstan,4.05,14.7
 240,United Bankshares,UBSI,USA,4.03,29.91
@@ -317,8 +243,7 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 242,Ringkjøbing Landbobank,RILBA.CO,Denmark,4.01,148.13
 243,Columbia Banking System,COLB,USA,3.99,19.17
 244,Commercial Bank of Kuwait,CBK.KW,Kuwait,3.99,2111.0
-245,"Bank Mega
-",MEGA.JK,Indonesia,3.94,0.34
+245,Bank Mega,MEGA.JK,Indonesia,3.94,0.34
 246,Bank AlJazira,1020.SR,S. Arabia,3.9,4.76
 247,TFS Financial,TFSL,USA,3.86,13.8
 248,Alpha Services and Holdings,ALPHA.AT,Greece,3.83,1.63
@@ -326,21 +251,17 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 250,Banco del Bajío,BBAJIOO.MX,Mexico,3.61,3.03
 251,Banca Monte dei Paschi di Siena,BMPS.MI,Italy,3.61,2.87
 252,Credit Suisse,CS,Switzerland,3.56,0.89
-253,"Bank of East Asia
-",0023.HK,Hong Kong,3.55,1.34
+253,Bank of East Asia,0023.HK,Hong Kong,3.55,1.34
 254,Halkbank,HALKB.IS,Turkey,3.55,0.5
 255,Federal Bank,FEDERALBNK.NS,India,3.48,1.62
 256,EFG International,EFGN.SW,Switzerland,3.46,11.38
-257,"Taiwan Business Bank
-",2834.TW,Taiwan,3.45,0.43
+257,Taiwan Business Bank,2834.TW,Taiwan,3.45,0.43
 258,Sallie Mae,SLM,USA,3.45,14.25
 259,St. Galler Kantonalbank,SGKN.SW,Switzerland,3.41,569.91
-260,"Glacier Bancorp
-",GBCI,USA,3.39,30.62
+260,Glacier Bancorp,GBCI,USA,3.39,30.62
 261,Bendigo and Adelaide Bank,BEN.AX,Australia,3.36,5.94
 262,VakıfBank,VAKBN.IS,Turkey,3.26,0.49
-263,"Bank of Maharashtra
-",MAHABANK.NS,India,3.26,0.46
+263,Bank of Maharashtra,MAHABANK.NS,India,3.26,0.46
 264,United Community Bank,UCBI,USA,3.24,27.33
 265,BancFirst,BANF,USA,3.18,96.79
 266,ServisFirst Bancshares,SFBS,USA,3.14,57.74
@@ -355,132 +276,100 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 275,First Interstate BancSystem,FIBK,USA,2.76,26.47
 276,Ahli Bank,ABQK.QA,Qatar,2.75,1.08
 277,Virgin Money UK,VMUK.L,UK,2.74,2.01
-278,"Associated Banc-Corp
-",ASB,USA,2.6,17.23
+278,Associated Banc-Corp,ASB,USA,2.6,17.23
 279,Community Bank System,CBU,USA,2.57,47.96
 280,Berner Kantonalbank,BEKN.SW,Switzerland,2.52,272.47
 281,WSFS Financial,WSFS,USA,2.51,40.95
 282,Cathay General Bancorp,CATY,USA,2.5,34.54
 283,CVB Financial,CVBF,USA,2.42,17.41
 284,Independent Bank Corp (Massachusetts),INDB,USA,2.41,54.72
-285,"First Hawaiian Bank
-",FHB,USA,2.41,18.89
-286,"Axos Financial
-",AX,USA,2.37,40.2
+285,First Hawaiian Bank,FHB,USA,2.41,18.89
+286,Axos Financial,AX,USA,2.37,40.2
 287,Oberbank,OBS.VI,Austria,2.36,67.07
 288,Eastern Bankshares,EBC,USA,2.33,13.22
 289,Itaú CorpBanca,ITCB,Chile,2.28,3.42
-290,"Bank Jago
-",ARTO.JK,Indonesia,2.27,0.16
+290,Bank Jago,ARTO.JK,Indonesia,2.27,0.16
 291,TISCO Financial Group,TISCO.BK,Thailand,2.26,2.83
 292,Permata Bank,BNLI.JK,Indonesia,2.26,0.06
 293,Atlantic Union Bankshares,AUB,USA,2.25,30.11
 294,Simmons First National,SFNC,USA,2.24,17.67
-295,"Pacific Premier Bancorp
-",PPBI,USA,2.19,22.88
+295,Pacific Premier Bancorp,PPBI,USA,2.19,22.88
 296,Burgan Bank,BURG.KW,Kuwait,2.17,630.07
 297,Fulton Financial,FULT,USA,2.16,13.06
 298,Is Yatirim Menkul Degerler Anonim Sirketi,ISMEN.IS,Turkey,2.15,1.44
-299,"Aareal Bank
-",ARL.F,Germany,2.14,35.66
+299,Aareal Bank,ARL.F,Germany,2.14,35.66
 300,Cembra Money Bank,CMBN.SW,Switzerland,2.11,71.98
 301,EQB (Equitable Bank),EQB.TO,Canada,2.07,55.19
-302,"Bank of Hawaii
-",BOH,USA,2.07,52.28
+302,Bank of Hawaii,BOH,USA,2.07,52.28
 303,Banca Popolare di Sondrio,BPSO.MI,Italy,2.07,4.61
-304,"First Financial Bank
-",FFBC,USA,2.04,21.46
-305,"Piper Sandler
-",PIPR,USA,2.02,136.92
-306,"MONETA Money Bank
-",MONET.PR,Czech Republic,1.98,3.88
+304,First Financial Bank,FFBC,USA,2.04,21.46
+305,Piper Sandler,PIPR,USA,2.02,136.92
+306,MONETA Money Bank,MONET.PR,Czech Republic,1.98,3.88
 307,Bank of Georgia Group,BGEO.L,UK,1.98,43.22
 308,BFF Bank,BFF.MI,Italy,1.95,10.51
 309,Seacoast Banking,SBCF,USA,1.92,22.8
-310,"The Bancorp
-",TBBK,USA,1.91,34.99
-311,"BankUnited
-",BKU,USA,1.9,25.65
-312,"Bank Danamon
-",BDMN.JK,Indonesia,1.89,0.19
+310,The Bancorp,TBBK,USA,1.91,34.99
+311,BankUnited,BKU,USA,1.9,25.65
+312,Bank Danamon,BDMN.JK,Indonesia,1.89,0.19
 313,Ahli United Bank,ALMUTAHED.KW,Kuwait,1.88,837.93
 314,Türkiye Kalkınma,KLNMA.IS,Turkey,1.87,0.75
 315,Spar Nord Bank A/S,SPNO.CO,Denmark,1.83,15.49
 316,WaFd Bank,WAFD,USA,1.81,28.07
-317,"TowneBank
-",TOWN,USA,1.79,23.93
+317,TowneBank,TOWN,USA,1.79,23.93
 318,Canadian Western Bank,CWB.TO,Canada,1.78,18.53
 319,Inter & Co,INTR,Brazil,1.78,4.44
 320,Bank für Tirol und Vorarlberg,BTS.VI,Austria,1.77,47.91
-321,"First Merchants Corporation
-",FRME,USA,1.77,29.96
+321,First Merchants Corporation,FRME,USA,1.77,29.96
 322,Independent Bank Group,IBTX,USA,1.68,40.88
 323,Park National Corp,PRK,USA,1.68,104.03
 324,Renasant Corp,RNST,USA,1.62,28.96
-325,"RBL Bank
-",RBLBANK.NS,India,1.57,2.63
+325,RBL Bank,RBLBANK.NS,India,1.57,2.63
 326,Arion banki,ARION.IC,Iceland,1.55,1.08
 327,WesBanco,WSBC,USA,1.53,25.84
 328,NBT Bancorp,NBTB,USA,1.53,35.68
 329,Close Brothers Group,CBG.L,UK,1.52,10.17
-330,"Banner Bank
-",BANR,USA,1.5,43.7
-331,"Live Oak Bank
-",LOB,USA,1.49,33.71
+330,Banner Bank,BANR,USA,1.5,43.7
+331,Live Oak Bank,LOB,USA,1.49,33.71
 332,Triumph Financial,TFIN,USA,1.49,64.14
 333,Enterprise Financial Services Corp,EFSC,USA,1.48,39.79
 334,FB Financial,FBK,USA,1.47,31.6
-335,"First National of Nebraska
-",FINN,USA,1.45,12502.0
+335,First National of Nebraska,FINN,USA,1.45,12502.0
 336,Trustmark,TRMK,USA,1.45,23.86
 337,Doha Bank,DHBK.QA,Qatar,1.45,0.47
-338,"OFG Bancorp
-",OFG,USA,1.44,30.8
-339,"Northwest Bank
-",NWBI,USA,1.43,11.27
+338,OFG Bancorp,OFG,USA,1.44,30.8
+339,Northwest Bank,NWBI,USA,1.43,11.27
 340,Bank of N. T. Butterfield & Son,NTB,Bermuda,1.41,28.44
 341,SpareBank 1,SPOL.OL,Norway,1.41,12.23
-342,"Bank Islam Malaysia
-",BIMB.KL,Malaysia,1.4,0.78
+342,Bank Islam Malaysia,BIMB.KL,Malaysia,1.4,0.78
 343,Lakeland Financial Corp,LKFN,USA,1.39,54.84
 344,City Holding Company,CHCO,USA,1.38,92.02
 345,Van Lanschot Kempen,VLK.AS,Netherlands,1.37,32.99
 346,Al Ahli Bank of Kuwait,ABK.KW,Kuwait,1.37,740.5
 347,Stock Yards Bancorp,SYBT,USA,1.37,46.77
 348,First Commonwealth Financial Corp,FCF,USA,1.34,13.18
-349,"Guaranty Trust Bank
-",9JO.F,Nigeria,1.34,2.29
+349,Guaranty Trust Bank,9JO.F,Nigeria,1.34,2.29
 350,Warba Bank,WARBABANK.KW,Kuwait,1.33,649.56
 351,Heartland Financial USA,HTLF,USA,1.33,31.2
-352,"Pathward Financial
-",CASH,USA,1.27,47.26
+352,Pathward Financial,CASH,USA,1.27,47.26
 353,Laurentian Bank of Canada,LB.TO,Canada,1.26,29.18
 354,Merchants Bancorp,MBIN,USA,1.26,29.24
 355,Provident Financial Services,PFS,USA,1.25,16.67
-356,"First Bancorp
-",FBNC,USA,1.25,30.54
-357,"National Bank Holdings
-",NBHC,USA,1.21,32.3
+356,First Bancorp,FBNC,USA,1.25,30.54
+357,National Bank Holdings,NBHC,USA,1.21,32.3
 358,Stellar Bancorp,STEL,USA,1.2,22.7
-359,"Westamerica Bancorporation
-",WABC,USA,1.2,45.36
+359,Westamerica Bancorporation,WABC,USA,1.2,45.36
 360,TriCo Bancshares,TCBK,USA,1.18,35.58
-361,"Customers Bancorp
-",CUBI,USA,1.17,34.84
-362,"Karur Vysya Bank
-",KARURVYSYA.NS,India,1.16,1.45
+361,Customers Bancorp,CUBI,USA,1.17,34.84
+362,Karur Vysya Bank,KARURVYSYA.NS,India,1.16,1.45
 363,Hope Bancorp,HOPE,USA,1.16,9.67
 364,First Busey,BUSE,USA,1.13,20.52
 365,Nicolet Bankshares,NIC,USA,1.11,75.75
 366,S&T Bancorp,STBA,USA,1.1,28.98
-367,"1st Source
-",SRCE,USA,1.1,44.66
-368,"City Union Bank
-",CUB.NS,India,1.08,1.47
+367,1st Source,SRCE,USA,1.1,44.66
+368,City Union Bank,CUB.NS,India,1.08,1.47
 369,ACLEDA Bank,ABC.KH,Cambodia,1.04,2.42
 370,Banco de Brasília,BSLI3.SA,Brazil,1.04,2.98
-371,"Veritex Holdings
-",VBTX,USA,1.03,19.02
+371,Veritex Holdings,VBTX,USA,1.03,19.02
 372,Deutsche Pfandbriefbank,PBB.DE,Germany,1.03,7.66
 373,OceanFirst Financial,OCFC,USA,1.02,17.2
 374,Sandy Spring Bank,SASR,USA,1.01,22.59
@@ -497,115 +386,92 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 385,Republic Bank,RBCAA,USA,0.87,44.63
 386,Brookline Bancorp,BRKL,USA,0.87,9.8
 387,Dime Community Bancshares,DCOM,USA,0.86,22.3
-388,"QCR Holdings
-",QCRH,USA,0.86,51.64
-389,"Karnataka Bank
-",KTKBANK.NS,India,0.86,2.75
+388,QCR Holdings,QCRH,USA,0.86,51.64
+389,Karnataka Bank,KTKBANK.NS,India,0.86,2.75
 390,German American Bancorp,GABC,USA,0.85,29.03
 391,Banco Latinoamericano de Comercio Exterior,BLX,Panama,0.85,23.54
 392,Bank First,BFC,USA,0.83,80.0
-393,"Capitol Federal Savings Bank
-",CFFN,USA,0.82,6.07
+393,Capitol Federal Savings Bank,CFFN,USA,0.82,6.07
 394,Byline Bancorp,BY,USA,0.78,20.94
 395,Tompkins Financial,TMP,USA,0.77,53.77
 396,ConnectOne Bancorp,CNOB,USA,0.75,19.21
 397,Eagle Bancorp,EGBN,USA,0.74,24.36
-398,"Aktia Bank
-",AKTIA.HE,Finland,0.72,9.96
+398,Aktia Bank,AKTIA.HE,Finland,0.72,9.96
 399,Banc of California,BANC,USA,0.71,12.3
 400,Dah Sing Financial,0440.HK,Hong Kong,0.68,2.16
 401,Premier Financial,PFC,USA,0.67,19.01
-402,"CSB Bank
-",CSBBANK.NS,India,0.67,3.88
+402,CSB Bank,CSBBANK.NS,India,0.67,3.88
 403,Old Second Bancorp,OSBC,USA,0.65,14.77
 404,Community Trust Bancorp,CTBI,USA,0.65,36.4
-405,"First Republic Bank
-",FRC,USA,0.65,3.51
+405,First Republic Bank,FRC,USA,0.65,3.51
 406,Great Southern Bancorp,GSBC,USA,0.61,51.64
 407,Heritage Financial,HFWA,USA,0.61,17.56
 408,HBT Financial,HBT,USA,0.61,19.18
 409,First Mid-Illinois Bancshares,FMBH,USA,0.57,28.16
 410,Amerant Bancorp,AMTB,USA,0.57,19.28
-411,"South Indian Bank
-",SOUTHBANK.NS,India,0.56,0.27
+411,South Indian Bank,SOUTHBANK.NS,India,0.56,0.27
 412,Amalgamated Financial,AMAL,USA,0.56,18.35
 413,TrustCo Bank,TRST,USA,0.54,28.72
 414,Greene County Bancorp,GCBC,USA,0.54,32.0
 415,Heritage Commerce,HTBK,USA,0.54,8.92
 416,Mercantile Bank,MBWM,USA,0.53,33.54
 417,Hanmi Financial,HAFC,USA,0.53,17.62
-418,"Capital City Bank Group
-",CCBG,USA,0.52,30.59
-419,"Kearny Financial
-",KRNY,USA,0.52,7.87
+418,Capital City Bank Group,CCBG,USA,0.52,30.59
+419,Kearny Financial,KRNY,USA,0.52,7.87
 420,Peapack-Gladstone Financial,PGC,USA,0.51,28.06
 421,Northfield Bancorp,NFBK,USA,0.51,11.11
 422,Southern Missouri Bancorp,SMBC,USA,0.5,44.61
 423,MetroCity Bankshares,MCBS,USA,0.5,19.83
 424,Horizon Bancorp,HBNC,USA,0.49,11.3
-425,"Camden National Bank
-",CAC,USA,0.49,34.14
+425,Camden National Bank,CAC,USA,0.49,34.14
 426,Washington Trust Bancorp,WASH,USA,0.48,28.6
 427,Grupo Supervielle,SUPV,Argentina,0.48,2.68
 428,Luther Burbank,LBC,USA,0.47,9.39
 429,Metropolitan Bank Holding,MCB,USA,0.46,42.11
-430,"HarborOne Bancorp
-",HONE,USA,0.46,9.91
+430,HarborOne Bancorp,HONE,USA,0.46,9.91
 431,Central Pacific Financial,CPF,USA,0.46,17.07
 432,Cambridge Bancorp,CATC,USA,0.42,54.85
-433,"Hingham Institution for Savings
-",HIFS,USA,0.42,197.19
+433,Hingham Institution for Savings,HIFS,USA,0.42,197.19
 434,Flushing Financial Corp,FFIC,USA,0.42,14.64
 435,American National Bank & Trust Company,AMNB,USA,0.42,39.68
-436,"First Foundation
-",FFWM,USA,0.41,7.42
+436,First Foundation,FFWM,USA,0.41,7.42
 437,Bank Mayapada Internasional,MAYA.JK,Indonesia,0.4,0.03
-438,"HomeTrust Bancshares
-",HTBI,USA,0.4,23.55
-439,"Oppenheimer Holdings
-",OPY,USA,0.4,38.45
+438,HomeTrust Bancshares,HTBI,USA,0.4,23.55
+439,Oppenheimer Holdings,OPY,USA,0.4,38.45
 440,Independent Bank (Michigan),IBCP,USA,0.4,19.24
 441,Equity BancShares,EQBK,USA,0.39,25.57
 442,SmartFinancial (SmartBank),SMBK,USA,0.39,23.1
 443,CNB Financial Corp,CCNE,USA,0.39,18.12
-444,"Bar Harbor Bankshares
-",BHB,USA,0.38,25.67
+444,Bar Harbor Bankshares,BHB,USA,0.38,25.67
 445,Five Star Bancorp,FSBC,USA,0.38,22.5
 446,Alerus Financial,ALRS,USA,0.37,18.59
 447,Shore Bancshares,SHBI,USA,0.36,11.1
 448,Mid Penn Bancorp,MPB,USA,0.36,21.7
 449,Enterprise Bancorp,EBTC,USA,0.36,29.57
 450,Red River Bancshares,RRBI,USA,0.35,49.37
-451,"MidWestOne Financial Group
-",MOFG,USA,0.35,22.45
+451,MidWestOne Financial Group,MOFG,USA,0.35,22.45
 452,Guaranty Bancshares,GNTY,USA,0.35,30.18
 453,Northeast Bank,NBN,USA,0.34,45.03
 454,Penseco Financial Services,PFIS,USA,0.32,45.35
 455,MVB Financial,MVBF,USA,0.32,25.34
-456,"Bank of Marin Bancorp
-",BMRC,USA,0.31,19.44
+456,Bank of Marin Bancorp,BMRC,USA,0.31,19.44
 457,West Bancorporation,WTBA,USA,0.31,18.73
 458,Sterling Bancorp,SBT,USA,0.31,6.14
 459,Macatawa Bank,MCBC,USA,0.31,9.09
 460,Arrow Financial,AROW,USA,0.3,18.5
-461,"Sierra Bancorp
-",BSRR,USA,0.3,20.57
+461,Sierra Bancorp,BSRR,USA,0.3,20.57
 462,Citizens & Northern Corp,CZNC,USA,0.29,19.46
 463,Bridgewater Bancshares,BWB,USA,0.28,10.22
 464,First Bancorp,FNLC,USA,0.28,25.54
 465,CapStar Financial,CSTR,USA,0.27,13.4
 466,Greenhill,GHL,USA,0.27,14.78
-467,"ACNB Corporation
-",ACNB,USA,0.27,32.61
+467,ACNB Corporation,ACNB,USA,0.27,32.61
 468,Financial Institutions,FISI,USA,0.27,18.0
-469,"Civista Bancshares
-",CIVB,USA,0.27,17.43
-470,"Addiko Bank
-",ZYE1.F,Austria,0.26,13.39
+469,Civista Bancshares,CIVB,USA,0.27,17.43
+470,Addiko Bank,ZYE1.F,Austria,0.26,13.39
 471,Orange County Bancorp,OBT,USA,0.26,47.16
 472,Waterstone Financial,WSBF,USA,0.26,12.43
-473,"Home Bancorp
-",HBCP,USA,0.26,32.37
+473,Home Bancorp,HBCP,USA,0.26,32.37
 474,Farmers & Merchants Bancorp,FMAO,USA,0.26,19.21
 475,RBB Bancorp,RBB,USA,0.26,13.77
 476,Third Coast Bancshares,TCBX,USA,0.26,19.26
@@ -616,8 +482,7 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 481,Banque nationale de Belgique,BNB.BR,Belgium,0.23,598.87
 482,BayCom (United Business Bank),BCML,USA,0.23,19.38
 483,Orrstown Financial Services,ORRF,USA,0.23,22.04
-484,"Middlefield Banc
-",MBCN,USA,0.23,28.94
+484,Middlefield Banc,MBCN,USA,0.23,28.94
 485,Bank7,BSVN,USA,0.23,25.2
 486,Southern First Bancshares,SFST,USA,0.22,28.27
 487,Primis Financial,FRST,USA,0.22,9.0
@@ -628,8 +493,7 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 492,Southern States Bancshares,SSBK,USA,0.2,23.3
 493,Bankwell Financial Group,BWFG,USA,0.2,25.93
 494,Codorus Valley Bancorp,CVLY,USA,0.2,21.0
-495,"C&F Financial Corporation
-",CFFI,USA,0.19,56.08
+495,C&F Financial Corporation,CFFI,USA,0.19,56.08
 496,Virginia National Bankshares,VABK,USA,0.19,35.85
 497,BCB Bancorp,BCBP,USA,0.19,11.4
 498,Penns Woods Bancorp,PWOD,USA,0.18,26.33
@@ -639,10 +503,8 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 502,HomeStreet Bank,HMST,USA,0.17,9.31
 503,ESSA Bancorp,ESSA,USA,0.17,16.69
 504,MainStreet Bancshares,MNSB,USA,0.17,23.03
-505,"Central Valley Community Bancorp
-",CVCY,USA,0.16,14.37
-506,"Provident Bancorp
-",PVBC,USA,0.16,9.46
+505,Central Valley Community Bancorp,CVCY,USA,0.16,14.37
+506,Provident Bancorp,PVBC,USA,0.16,9.46
 507,Ames National Corp.,ATLO,USA,0.16,18.16
 508,Salisbury Bancorp,SAL,USA,0.16,27.88
 509,Evans Bancorp,EVBN,USA,0.16,29.37
@@ -654,11 +516,9 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 515,Hanover Bancorp,HNVR,USA,0.13,18.7
 516,Partners Bancorp,PTRS,USA,0.13,7.4
 517,FinWise Bancorp,FINW,USA,0.13,10.19
-518,"Investar Holding
-",ISTR,USA,0.13,13.4
+518,Investar Holding,ISTR,USA,0.13,13.4
 519,Richmond Mutual Bancorporation,RMBI,USA,0.13,11.41
-520,"Malvern Bancorp
-",MLVF,USA,0.12,16.97
+520,Malvern Bancorp,MLVF,USA,0.12,16.97
 521,First Guaranty Bancshares,FGBI,USA,0.12,11.28
 522,Riverview Bancorp,RVSB,USA,0.12,5.95
 523,First Northwest Bancorp,FNWB,USA,0.12,12.85
@@ -669,8 +529,7 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 528,BankFinancial,BFIN,USA,0.1,8.66
 529,ECB Bancorp,ECBK,USA,0.1,11.85
 530,Provident Financial Holdings,PROV,USA,0.09768,13.91
-531,"Territorial Bancorp
-",TBNK,USA,0.09759,10.94
+531,Territorial Bancorp,TBNK,USA,0.09759,10.94
 532,Old Point Financial,OPOF,USA,0.0949,18.98
 533,Union Bankshares,UNB,USA,0.09465,21.0
 534,Pathfinder Bancorp,PBHC,USA,0.07833,12.94
@@ -679,7 +538,6 @@ Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na 
 537,Republic First Bancorp,FRBK,USA,0.04699,0.67
 538,Silvergate Capital,SI,USA,0.03957,1.25
 539,Carver Bancorp,CARV,USA,0.01188,2.43
-540,"Signature Bank
-",SBNY,USA,0.00207,0.033
+540,Signature Bank,SBNY,USA,0.00207,0.033
 541,Sberbank,SBER.ME,Russia,0,1.95
 542,Emirates NBD Bank PJSC,EMIRATESNBD.AE,UAE,0,0

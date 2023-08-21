@@ -35,10 +35,10 @@ for filename in os.listdir(html_files_directory):
         vse_banke = juha.find_all("td", class_="name-td")
             
         for banka in vse_banke:
-            mesto = banka.find_previous("td", class_="rank-td").get_text()
-            naziv = banka.find("div", class_="company-name").get_text()
-            sifra_podjetja = banka.find("div", class_="company-code").get_text()
-            drzava = banka.find_next("span", class_="responsive-hidden").get_text()
+            mesto = banka.find_previous("td", class_="rank-td").get_text().strip()
+            naziv = banka.find("div", class_="company-name").get_text().strip()
+            sifra_podjetja = banka.find("div", class_="company-code").get_text().strip()
+            drzava = banka.find_next("span", class_="responsive-hidden").get_text().strip()
                  
 
             td_right = banka.find_all_next("td", class_="td-right")
