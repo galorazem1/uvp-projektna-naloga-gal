@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 import csv
+import re
 
 
 # Dobljen niz pretvori v število, znebi se znakov za milijarde, milijone in dolarje
@@ -37,8 +38,9 @@ for filename in os.listdir(html_files_directory):
             mesto = banka.find_previous("td", class_="rank-td").get_text()
             naziv = banka.find("div", class_="company-name").get_text()
             sifra_podjetja = banka.find("div", class_="company-code").get_text()
-            drzava = banka.find_next("td", class_=None).get_text()
-            
+            drzava = banka.find_next("span", class_="responsive-hidden").get_text()
+                 
+
             td_right = banka.find_all_next("td", class_="td-right")
             
             trzni_kapital = td_right[0].get_text()
@@ -46,13 +48,17 @@ for filename in os.listdir(html_files_directory):
         
             trzni_kapital_stevilo = uredi_trg(trzni_kapital)
             cena_delnice_stevilo = uredi_ceno_delnice(cena_delnice)
+
+            dnevna_rast = 0           
         
-            banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital_stevilo, cena_delnice_stevilo])
+
+
+            banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital_stevilo, cena_delnice_stevilo, dnevna_rast])
 
 banke.sort(key=lambda x: int(x[0]))
 # Zapis CSV datoteke.
 csv_file_path = "banke.csv"
 with open(csv_file_path, "w", newline="") as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(["Mesto", "Naziv", "Šifra podjetja", "Država", "Tržna kapitalizacija (milijarde $)", "Cena na delnico ($)"])
+    csv_writer.writerow(["Mesto", "Naziv", "Šifra podjetja", "Država", "Tržna kapitalizacija (milijarde $)", "Cena na delnico ($)", "Dnevna rast (%)"])
     csv_writer.writerows(banke)

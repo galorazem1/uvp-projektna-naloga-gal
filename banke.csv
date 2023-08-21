@@ -1,685 +1,685 @@
-Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na delnico ($)
-1,JPMorgan Chase,JPM,🇺🇸 USA,435.18,149.75
-2,Bank of America ,BAC,🇺🇸 USA,232.64,29.25
-3,ICBC,1398.HK,🇨🇳 China,194.56,0.43
-4,Agricultural Bank of China,601288.SS,🇨🇳 China,160.68,0.47
-5,HDFC Bank,HDB,🇮🇳 India,159.7,63.56
-6,Wells Fargo,WFC,🇺🇸 USA,156.82,42.76
-7,HSBC,HSBC,🇬🇧 UK,149.06,37.7
-8,Morgan Stanley,MS,🇺🇸 USA,141.31,85.18
-9,China Construction Bank,601939.SS,🇨🇳 China,139.82,0.81
-10,Bank of China,601988.SS,🇨🇳 China,136.81,0.51
-11,Royal Bank Of Canada,RY,🇨🇦 Canada,125.52,90.22
-12,Toronto Dominion Bank,TD,🇨🇦 Canada,114.73,62.28
-13,Charles Schwab,SCHW,🇺🇸 USA,108.4,59.56
-14,Goldman Sachs,GS,🇺🇸 USA,108.07,325.09
-15,Commonwealth Bank,CBA.AX,🇦🇺 Australia,106.43,63.09
-16,CM Bank,3968.HK,🇨🇳 China,99.63,3.86
-17,Mitsubishi UFJ Financial,MUFG,🇯🇵 Japan,89.74,7.46
-18,Citigroup,C,🇺🇸 USA,82.13,42.65
-19,ICICI Bank,IBN,🇮🇳 India,80.7,23.07
-20,Al Rajhi Bank,1120.SR,🇸🇦 S. Arabia,77.39,19.35
-21,UBS,UBS,🇨🇭 Switzerland,76.52,23.49
-22,BNP Paribas,BNP.PA,🇫🇷 France,76.04,63.82
+Mesto,Naziv,Šifra podjetja,Država,Tržna kapitalizacija (milijarde $),Cena na delnico ($),Dnevna rast (%)
+1,JPMorgan Chase,JPM,USA,435.18,149.75,0
+2,Bank of America ,BAC,USA,232.64,29.25,0
+3,ICBC,1398.HK,China,194.56,0.43,0
+4,Agricultural Bank of China,601288.SS,China,160.68,0.47,0
+5,HDFC Bank,HDB,India,159.7,63.56,0
+6,Wells Fargo,WFC,USA,156.82,42.76,0
+7,HSBC,HSBC,UK,149.06,37.7,0
+8,Morgan Stanley,MS,USA,141.31,85.18,0
+9,China Construction Bank,601939.SS,China,139.82,0.81,0
+10,Bank of China,601988.SS,China,136.81,0.51,0
+11,Royal Bank Of Canada,RY,Canada,125.52,90.22,0
+12,Toronto Dominion Bank,TD,Canada,114.73,62.28,0
+13,Charles Schwab,SCHW,USA,108.4,59.56,0
+14,Goldman Sachs,GS,USA,108.07,325.09,0
+15,Commonwealth Bank,CBA.AX,Australia,106.43,63.09,0
+16,CM Bank,3968.HK,China,99.63,3.86,0
+17,Mitsubishi UFJ Financial,MUFG,Japan,89.74,7.46,0
+18,Citigroup,C,USA,82.13,42.65,0
+19,ICICI Bank,IBN,India,80.7,23.07,0
+20,Al Rajhi Bank,1120.SR,S. Arabia,77.39,19.35,0
+21,UBS,UBS,Switzerland,76.52,23.49,0
+22,BNP Paribas,BNP.PA,France,76.04,63.82,0
 23,"Bank Central Asia
-",BBCA.JK,🇮🇩 Indonesia,74.02,0.6
+",BBCA.JK,Indonesia,74.02,0.6,0
 24,"Postal Savings Bank of China
-",601658.SS,🇨🇳 China,63.51,0.66
-25,Santander,SAN,🇪🇸 Spain,63.26,3.86
-26,DBS Group,D05.SI,🇸🇬 Singapore,61.78,23.96
+",601658.SS,China,63.51,0.66,0
+25,Santander,SAN,Spain,63.26,3.86,0
+26,DBS Group,D05.SI,Singapore,61.78,23.96,0
 27,"State Bank of India
-",SBIN.NS,🇮🇳 India,61.38,6.88
-28,Housing Development Finance Corporation,HDFC.NS,🇮🇳 India,60.85,32.87
+",SBIN.NS,India,61.38,6.88,0
+28,Housing Development Finance Corporation,HDFC.NS,India,60.85,32.87,0
 29,"Bank of Montreal
-",BMO,🇨🇦 Canada,59.85,83.95
-30,Sumitomo Mitsui Financial Group,SMFG,🇯🇵 Japan,57.82,8.62
-31,The Saudi National Bank,1180.SR,🇸🇦 S. Arabia,56.88,9.54
-32,U.S. Bancorp,USB,🇺🇸 USA,56.46,36.84
-33,Scotiabank,BNS,🇨🇦 Canada,55.4,46.19
-34,National Australia Bank,NAB.AX,🇦🇺 Australia,55.3,17.67
+",BMO,Canada,59.85,83.95,0
+30,Sumitomo Mitsui Financial Group,SMFG,Japan,57.82,8.62,0
+31,The Saudi National Bank,1180.SR,S. Arabia,56.88,9.54,0
+32,U.S. Bancorp,USB,USA,56.46,36.84,0
+33,Scotiabank,BNS,Canada,55.4,46.19,0
+34,National Australia Bank,NAB.AX,Australia,55.3,17.67,0
 35,"Bank Rakyat Indonesia
-",BBRI.JK,🇮🇩 Indonesia,54.32,0.36
+",BBRI.JK,Indonesia,54.32,0.36,0
 36,"Itaú Unibanco
-",ITUB,🇧🇷 Brazil,52.52,5.36
+",ITUB,Brazil,52.52,5.36,0
 37,"ING
-",ING,🇳🇱 Netherlands,51.15,14.18
-38,PNC Financial Services,PNC,🇺🇸 USA,49.33,123.95
-39,Bank of Communications,601328.SS,🇨🇳 China,48.99,0.75
-40,Intesa Sanpaolo,ISP.MI,🇮🇹 Italy,48.52,2.66
-41,ANZ Bank,ANZ.AX,🇦🇺 Australia,47.17,15.53
-42,Banco Bilbao Vizcaya Argentaria,BBVA,🇪🇸 Spain,46.4,7.74
-43,Westpac Banking,WBC.AX,🇦🇺 Australia,46.29,13.21
+",ING,Netherlands,51.15,14.18,0
+38,PNC Financial Services,PNC,USA,49.33,123.95,0
+39,Bank of Communications,601328.SS,China,48.99,0.75,0
+40,Intesa Sanpaolo,ISP.MI,Italy,48.52,2.66,0
+41,ANZ Bank,ANZ.AX,Australia,47.17,15.53,0
+42,Banco Bilbao Vizcaya Argentaria,BBVA,Spain,46.4,7.74,0
+43,Westpac Banking,WBC.AX,Australia,46.29,13.21,0
 44,"Industrial Bank
-",601166.SS,🇨🇳 China,44.8,2.16
+",601166.SS,China,44.8,2.16,0
 45,"CITIC Securities
-",600030.SS,🇨🇳 China,43.35,3.15
-46,UniCredit,UCG.MI,🇮🇹 Italy,43.11,23.88
-47,Macquarie,MQG.AX,🇦🇺 Australia,42.14,109.02
+",600030.SS,China,43.35,3.15,0
+46,UniCredit,UCG.MI,Italy,43.11,23.88,0
+47,Macquarie,MQG.AX,Australia,42.14,109.02,0
 48,"Kotak Mahindra Bank
-",KOTAKBANK.NS,🇮🇳 India,42.08,21.18
-49,First Abu Dhabi Bank,FAB.AE,🇦🇪 UAE,41.45,3.75
-50,QNB (Qatar National Bank),QNBK.QA,🇶🇦 Qatar,40.75,4.41
-51,OCBC Bank,O39.SI,🇸🇬 Singapore,40.43,9.0
-52,Capital One,COF,🇺🇸 USA,40.08,105.1
+",KOTAKBANK.NS,India,42.08,21.18,0
+49,First Abu Dhabi Bank,FAB.AE,UAE,41.45,3.75,0
+50,QNB (Qatar National Bank),QNBK.QA,Qatar,40.75,4.41,0
+51,OCBC Bank,O39.SI,Singapore,40.43,9.0,0
+52,Capital One,COF,USA,40.08,105.1,0
 53,"Mizuho Financial Group
-",MFG,🇯🇵 Japan,39.4,3.11
-54,Nordea Bank,NDA-FI.HE,🇫🇮 Finland,39.26,10.98
-55,Banco Santander Brasil,BSBR,🇧🇷 Brazil,39.24,5.26
-56,Truist Financial,TFC,🇺🇸 USA,38.53,28.93
-57,Crédit Agricole,ACA.PA,🇫🇷 France,37.45,12.38
-58,CIBC,CM,🇨🇦 Canada,36.69,39.95
-59,Bank Mandiri,BMRI.JK,🇮🇩 Indonesia,35.58,0.38
-60,Kuwait Finance House,KFH.KW,🇰🇼 Kuwait,35.51,2423.0
+",MFG,Japan,39.4,3.11,0
+54,Nordea Bank,NDA-FI.HE,Finland,39.26,10.98,0
+55,Banco Santander Brasil,BSBR,Brazil,39.24,5.26,0
+56,Truist Financial,TFC,USA,38.53,28.93,0
+57,Crédit Agricole,ACA.PA,France,37.45,12.38,0
+58,CIBC,CM,Canada,36.69,39.95,0
+59,Bank Mandiri,BMRI.JK,Indonesia,35.58,0.38,0
+60,Kuwait Finance House,KFH.KW,Kuwait,35.51,2423.0,0
 61,"Axis Bank
-",AXISBANK.BO,🇮🇳 India,35.29,11.46
+",AXISBANK.BO,India,35.29,11.46,0
 62,"Lloyds Banking Group
-",LYG,🇬🇧 UK,34.46,2.12
-63,Bank of New York Mellon,BK,🇺🇸 USA,34.32,44.07
-64,UOB,U11.SI,🇸🇬 Singapore,34.29,20.47
-65,Nu Holdings,NU,🇧🇷 Brazil,34.14,7.27
-66,Maybank,MLYBY,🇲🇾 Malaysia,32.84,5.45
-67,CITIC Bank,601998.SS,🇨🇳 China,32.19,0.75
-68,Banco Bradesco,BBD,🇧🇷 Brazil,31.98,3.01
-69,CaixaBank,CABK.MC,🇪🇸 Spain,31.09,4.15
+",LYG,UK,34.46,2.12,0
+63,Bank of New York Mellon,BK,USA,34.32,44.07,0
+64,UOB,U11.SI,Singapore,34.29,20.47,0
+65,Nu Holdings,NU,Brazil,34.14,7.27,0
+66,Maybank,MLYBY,Malaysia,32.84,5.45,0
+67,CITIC Bank,601998.SS,China,32.19,0.75,0
+68,Banco Bradesco,BBD,Brazil,31.98,3.01,0
+69,CaixaBank,CABK.MC,Spain,31.09,4.15,0
 70,"Ping An Bank
-",000001.SZ,🇨🇳 China,30.17,1.55
-71,Barclays,BCS,🇬🇧 UK,28.9,7.4
+",000001.SZ,China,30.17,1.55,0
+71,Barclays,BCS,UK,28.9,7.4,0
 72,"Japan Post Bank
-",7182.T,🇯🇵 Japan,28.7,7.93
-73,Bank of China (Hong Kong),2388.HK,🇭🇰 Hong Kong,28.21,2.67
+",7182.T,Japan,28.7,7.93,0
+73,Bank of China (Hong Kong),2388.HK,Hong Kong,28.21,2.67,0
 74,"Shanghai Pudong Development Bank
-",600000.SS,🇨🇳 China,28.06,0.96
+",600000.SS,China,28.06,0.96,0
 75,"Banco do Brasil
-",BBAS3.SA,🇧🇷 Brazil,27.53,9.65
-76,NatWest Group,NWG,🇬🇧 UK,26.13,5.78
-77,Standard Chartered,STAN.L,🇬🇧 UK,25.66,9.2
+",BBAS3.SA,Brazil,27.53,9.65,0
+76,NatWest Group,NWG,UK,26.13,5.78,0
+77,Standard Chartered,STAN.L,UK,25.66,9.2,0
 78,"National Bank of Canada
-",NA.TO,🇨🇦 Canada,25.12,74.37
-79,Fubon Financial,2881.TW,🇹🇼 Taiwan,24.54,1.98
+",NA.TO,Canada,25.12,74.37,0
+79,Fubon Financial,2881.TW,Taiwan,24.54,1.98,0
 80,"Bank of Ningbo
-",002142.SZ,🇨🇳 China,24.25,3.67
+",002142.SZ,China,24.25,3.67,0
 81,"Hang Seng Bank
-",0011.HK,🇭🇰 Hong Kong,24.07,12.59
-82,Riyad Bank,1010.SR,🇸🇦 S. Arabia,24.01,8.01
-83,Skandinaviska Enskilda Banken,SEB-A.ST,🇸🇪 Sweden,23.87,11.39
-84,National Bank of Kuwait,NBK.KW,🇰🇼 Kuwait,23.56,2972.0
+",0011.HK,Hong Kong,24.07,12.59,0
+82,Riyad Bank,1010.SR,S. Arabia,24.01,8.01,0
+83,Skandinaviska Enskilda Banken,SEB-A.ST,Sweden,23.87,11.39,0
+84,National Bank of Kuwait,NBK.KW,Kuwait,23.56,2972.0,0
 85,"China Everbright Bank
-",601818.SS,🇨🇳 China,22.86,0.41
+",601818.SS,China,22.86,0.41,0
 86,"Société Générale
-",GLE.PA,🇫🇷 France,22.28,27.81
+",GLE.PA,France,22.28,27.81,0
 87,"China Minsheng Bank
-",600016.SS,🇨🇳 China,22.07,0.54
-88,Deutsche Bank,DB,🇩🇪 Germany,21.94,10.73
+",600016.SS,China,22.07,0.54,0
+88,Deutsche Bank,DB,Germany,21.94,10.73,0
 89,"State Street Corporation
-",STT,🇺🇸 USA,21.88,67.95
-90,M&T Bank,MTB,🇺🇸 USA,21.34,128.65
-91,FirstRand,FSR.JO,🇿🇦 South Africa,21.31,3.8
-92,Cathay Financial Holding,2882.TW,🇹🇼 Taiwan,20.89,1.42
+",STT,USA,21.88,67.95,0
+90,M&T Bank,MTB,USA,21.34,128.65,0
+91,FirstRand,FSR.JO,South Africa,21.31,3.8,0
+92,Cathay Financial Holding,2882.TW,Taiwan,20.89,1.42,0
 93,"ORIX
-",IX,🇯🇵 Japan,20.86,89.23
+",IX,Japan,20.86,89.23,0
 94,"First Citizens BancShares
-",FCNCA,🇺🇸 USA,20.19,1400.0
+",FCNCA,USA,20.19,1400.0,0
 95,"Danske Bank
-",DANS.VI,🇩🇰 Denmark,20.1,23.41
-96,Swedbank,SWED-A.ST,🇸🇪 Sweden,19.64,17.47
-97,The Saudi British Bank ,1060.SR,🇸🇦 S. Arabia,19.49,9.49
-98,Alinma Bank,1150.SR,🇸🇦 S. Arabia,19.03,9.55
+",DANS.VI,Denmark,20.1,23.41,0
+96,Swedbank,SWED-A.ST,Sweden,19.64,17.47,0
+97,The Saudi British Bank ,1060.SR,S. Arabia,19.49,9.49,0
+98,Alinma Bank,1150.SR,S. Arabia,19.03,9.55,0
 99,"Fifth Third Bank
-",FITB,🇺🇸 USA,17.53,25.76
-100,PBBank (Public Bank Bhd),1295.KL,🇲🇾 Malaysia,17.3,0.89
-101,Abu Dhabi Commercial Bank (ADCB),ADCB.AE,🇦🇪 UAE,17.22,2.35
-102,Guotai Junan Securities,601211.SS,🇨🇳 China,17.07,2.05
-103,Standard Bank Group,SBK.JO,🇿🇦 South Africa,16.8,10.2
+",FITB,USA,17.53,25.76,0
+100,PBBank (Public Bank Bhd),1295.KL,Malaysia,17.3,0.89,0
+101,Abu Dhabi Commercial Bank (ADCB),ADCB.AE,UAE,17.22,2.35,0
+102,Guotai Junan Securities,601211.SS,China,17.07,2.05,0
+103,Standard Bank Group,SBK.JO,South Africa,16.8,10.2,0
 104,"Svenska Handelsbanken
-",SHB-A.ST,🇸🇪 Sweden,16.52,8.31
+",SHB-A.ST,Sweden,16.52,8.31,0
 105,"Huntington Bancshares
-",HBAN,🇺🇸 USA,16.21,11.2
-106,MFHC,2886.TW,🇹🇼 Taiwan,15.57,1.12
-107,Bank of Jiangsu,600919.SS,🇨🇳 China,15.13,0.97
-108,KB Financial Group,KB,🇰🇷 S. Korea,14.87,38.72
+",HBAN,USA,16.21,11.2,0
+106,MFHC,2886.TW,Taiwan,15.57,1.12,0
+107,Bank of Jiangsu,600919.SS,China,15.13,0.97,0
+108,KB Financial Group,KB,S. Korea,14.87,38.72,0
 109,"CTBC Financial Holding
-",2891.TW,🇹🇼 Taiwan,14.65,0.75
-110,Erste Group Bank,EBO.F,🇦🇹 Austria,14.53,35.71
-111,Commerzbank,CBK.F,🇩🇪 Germany,13.95,11.14
-112,Julius Bär,BAER.SW,🇨🇭 Switzerland,13.8,67.52
-113,BDO Unibank,BDOUY, Philippines,13.47,24.0
-114,Citizens Financial Group,CFG,🇺🇸 USA,13.23,27.89
+",2891.TW,Taiwan,14.65,0.75,0
+110,Erste Group Bank,EBO.F,Austria,14.53,35.71,0
+111,Commerzbank,CBK.F,Germany,13.95,11.14,0
+112,Julius Bär,BAER.SW,Switzerland,13.8,67.52,0
+113,BDO Unibank,BDOUY,Philippines,13.47,24.0,0
+114,Citizens Financial Group,CFG,USA,13.23,27.89,0
 115,"IndusInd Bank
-",INDUSINDBK.NS,🇮🇳 India,13.04,16.82
-116,Bank of Beijing,601169.SS,🇨🇳 China,12.95,0.61
-117,CIMB Group,1023.KL,🇲🇾 Malaysia,12.85,1.21
-118,Qatar Islamic Bank,QIBK.QA,🇶🇦 Qatar,12.84,5.44
+",INDUSINDBK.NS,India,13.04,16.82,0
+116,Bank of Beijing,601169.SS,China,12.95,0.61,0
+117,CIMB Group,1023.KL,Malaysia,12.85,1.21,0
+118,Qatar Islamic Bank,QIBK.QA,Qatar,12.84,5.44,0
 119,"Shinkin Central Bank
-",8421.T,🇯🇵 Japan,12.66,1888.0
+",8421.T,Japan,12.66,1888.0,0
 120,"ABN AMRO
-",ABN.AS,🇳🇱 Netherlands,12.55,14.5
-121,Banque Saudi Fransi,1050.SR,🇸🇦 S. Arabia,12.48,10.41
-122,Hua Xia Bank,600015.SS,🇨🇳 China,12.11,0.76
+",ABN.AS,Netherlands,12.55,14.5,0
+121,Banque Saudi Fransi,1050.SR,S. Arabia,12.48,10.41,0
+122,Hua Xia Bank,600015.SS,China,12.11,0.76,0
 123,"Bank Leumi
-",LUMI.TA,🇮🇱 Israel,11.91,7.77
+",LUMI.TA,Israel,11.91,7.77,0
 124,"Bank of Baroda
-",BANKBARODA.NS,🇮🇳 India,11.88,2.3
-125,AIB Group (Allied Irish Banks) ,A5G.IR,🇮🇪 Ireland,11.87,4.53
-126,Bank of Nanjing,601009.SS,🇨🇳 China,11.8,1.14
-127,E.SUN Bank,2884.TW,🇹🇼 Taiwan,11.75,0.78
-128,Taiwan Cooperative Financial,5880.TW,🇹🇼 Taiwan,11.71,0.84
+",BANKBARODA.NS,India,11.88,2.3,0
+125,AIB Group (Allied Irish Banks) ,A5G.IR,Ireland,11.87,4.53,0
+126,Bank of Nanjing,601009.SS,China,11.8,1.14,0
+127,E.SUN Bank,2884.TW,Taiwan,11.75,0.78,0
+128,Taiwan Cooperative Financial,5880.TW,Taiwan,11.71,0.84,0
 129,"Resona Holdings
-",8308.T,🇯🇵 Japan,11.69,4.92
-130,Bank of Shanghai,601229.SS,🇨🇳 China,11.68,0.82
+",8308.T,Japan,11.69,4.92,0
+130,Bank of Shanghai,601229.SS,China,11.68,0.82,0
 131,"Bank Hapoalim
-",POLI.TA,🇮🇱 Israel,11.42,8.54
+",POLI.TA,Israel,11.42,8.54,0
 132,"PKO Bank Polski
-",PKO.WA,🇵🇱 Poland,11.24,8.99
+",PKO.WA,Poland,11.24,8.99,0
 133,"OTP Bank
-",OTP.BD, Hungary,11.22,40.24
-134,Nomura Holdings,NMR,🇯🇵 Japan,11.15,3.66
+",OTP.BD,Hungary,11.22,40.24,0
+134,Nomura Holdings,NMR,Japan,11.15,3.66,0
 135,"Bank Negara Indonesia
-",BBNI.JK,🇮🇩 Indonesia,11.13,0.6
-136,Credicorp,BAP,🇧🇲 Bermuda,11.1,139.61
-137,Bank Albilad,1140.SR,🇸🇦 S. Arabia,11.0,11.01
-138,First Financial Holding,2892.TW,🇹🇼 Taiwan,10.89,0.82
+",BBNI.JK,Indonesia,11.13,0.6,0
+136,Credicorp,BAP,Bermuda,11.1,139.61,0
+137,Bank Albilad,1140.SR,S. Arabia,11.0,11.01,0
+138,First Financial Holding,2892.TW,Taiwan,10.89,0.82,0
 139,"Banco de Chile
-",BCH,🇨🇱 Chile,10.88,21.55
+",BCH,Chile,10.88,21.55,0
 140,"SCB (Siam Commercial Bank)
-",SCB.BK,🇹🇭 Thailand,10.8,3.21
-141,Mediobanca,MB.MI,🇮🇹 Italy,10.71,12.75
-142,Bank of Ireland Group,BIRG.IR,🇮🇪 Ireland,10.68,10.11
-143,Suncorp,SUN.AX,🇦🇺 Australia,10.6,8.37
-144,Arab National Bank,1080.SR,🇸🇦 S. Arabia,10.54,7.03
-145,Abu Dhabi Islamic Bank (ADIB),ADIB.AE,🇦🇪 UAE,10.5,2.89
-146,Capitec Bank,CPI.JO,🇿🇦 South Africa,10.33,89.23
-147,QNB Finansbank,QNBFB.IS,🇹🇷 Turkey,10.26,3.06
-148,KeyCorp (KeyBank),KEY,🇺🇸 USA,10.23,10.94
-149,Santander Polska,SPL.WA,🇵🇱 Poland,9.42,92.24
-150,Banque Cantonale Vaudoise,BCVN.SW,🇨🇭 Switzerland,9.38,109.25
-151,Yuanta Financial Holding,2885.TW,🇹🇼 Taiwan,9.37,0.75
+",SCB.BK,Thailand,10.8,3.21,0
+141,Mediobanca,MB.MI,Italy,10.71,12.75,0
+142,Bank of Ireland Group,BIRG.IR,Ireland,10.68,10.11,0
+143,Suncorp,SUN.AX,Australia,10.6,8.37,0
+144,Arab National Bank,1080.SR,S. Arabia,10.54,7.03,0
+145,Abu Dhabi Islamic Bank (ADIB),ADIB.AE,UAE,10.5,2.89,0
+146,Capitec Bank,CPI.JO,South Africa,10.33,89.23,0
+147,QNB Finansbank,QNBFB.IS,Turkey,10.26,3.06,0
+148,KeyCorp (KeyBank),KEY,USA,10.23,10.94,0
+149,Santander Polska,SPL.WA,Poland,9.42,92.24,0
+150,Banque Cantonale Vaudoise,BCVN.SW,Switzerland,9.38,109.25,0
+151,Yuanta Financial Holding,2885.TW,Taiwan,9.37,0.75,0
 152,"Bangkok Bank
-",BBL.BK,🇹🇭 Thailand,9.22,4.83
-153,KakaoBank,323410.KS,🇰🇷 S. Korea,9.12,19.15
-154,Hua Nan Financial Holdings,2880.TW,🇹🇼 Taiwan,8.94,0.66
-155,(HLBank) Hong Leong Bank,5819.KL,🇲🇾 Malaysia,8.91,4.27
-156,Mizrahi-Tefahot,MZTF.TA,🇮🇱 Israel,8.82,34.3
-157,Kasikornbank,KBANK.BK,🇹🇭 Thailand,8.77,3.65
-158,Banco Santander-Chile,BSAC,🇨🇱 Chile,8.6,18.26
+",BBL.BK,Thailand,9.22,4.83,0
+153,KakaoBank,323410.KS,S. Korea,9.12,19.15,0
+154,Hua Nan Financial Holdings,2880.TW,Taiwan,8.94,0.66,0
+155,(HLBank) Hong Leong Bank,5819.KL,Malaysia,8.91,4.27,0
+156,Mizrahi-Tefahot,MZTF.TA,Israel,8.82,34.3,0
+157,Kasikornbank,KBANK.BK,Thailand,8.77,3.65,0
+158,Banco Santander-Chile,BSAC,Chile,8.6,18.26,0
 159,"New York Community Bank
-",NYCB,🇺🇸 USA,8.58,11.9
+",NYCB,USA,8.58,11.9,0
 160,"Ally
-",ALLY,🇺🇸 USA,8.27,27.44
+",ALLY,USA,8.27,27.44,0
 161,"Punjab National Bank
-",PNB.NS,🇮🇳 India,8.25,0.75
+",PNB.NS,India,8.25,0.75,0
 162,"IDBI Bank
-",IDBI.NS,🇮🇳 India,7.84,0.73
-163,Boubyan Bank,BOUBYAN.KW,🇰🇼 Kuwait,7.82,1975.0
-164,Krung Thai Bank,KTB.BK,🇹🇭 Thailand,7.82,0.56
+",IDBI.NS,India,7.84,0.73,0
+163,Boubyan Bank,BOUBYAN.KW,Kuwait,7.82,1975.0,0
+164,Krung Thai Bank,KTB.BK,Thailand,7.82,0.56,0
 165,"East West Bancorp
-",EWBC,🇺🇸 USA,7.8,55.16
-166,GarantiBank,GARAN.IS,🇹🇷 Turkey,7.77,1.85
+",EWBC,USA,7.8,55.16,0
+166,GarantiBank,GARAN.IS,Turkey,7.77,1.85,0
 167,"Daiwa Securities Group
-",8601.T,🇯🇵 Japan,7.67,5.28
-168,China Zheshang Bank,2016.HK,🇨🇳 China,7.61,0.27
+",8601.T,Japan,7.67,5.28,0
+168,China Zheshang Bank,2016.HK,China,7.61,0.27,0
 169,"Jefferies Financial Group
-",JEF,🇺🇸 USA,7.59,34.39
-170,Union Bank of India,UNIONBANK.NS,🇮🇳 India,7.54,1.1
-171,Webster Financial,WBS,🇺🇸 USA,7.29,42.13
+",JEF,USA,7.59,34.39,0
+170,Union Bank of India,UNIONBANK.NS,India,7.54,1.1,0
+171,Webster Financial,WBS,USA,7.29,42.13,0
 172,"Taishin Financial Holdings
-",2887.TW,🇹🇼 Taiwan,7.26,0.56
-173,Banco BPM,BAMI.MI,🇮🇹 Italy,7.21,4.79
+",2887.TW,Taiwan,7.26,0.56,0
+173,Banco BPM,BAMI.MI,Italy,7.21,4.79,0
 174,"Canara Bank
-",CANBK.NS,🇮🇳 India,7.16,3.95
+",CANBK.NS,India,7.16,3.95,0
 175,"IDFC FIRST Bank
-",IDFCFIRSTB.NS,🇮🇳 India,7.15,1.08
-176,First Horizon National,FHN,🇺🇸 USA,7.14,12.79
+",IDFCFIRSTB.NS,India,7.15,1.08,0
+176,First Horizon National,FHN,USA,7.14,12.79,0
 177,"Indian Overseas Bank
-",IOB.NS,🇮🇳 India,7.07,0.37
+",IOB.NS,India,7.07,0.37,0
 178,"Bancolombia
-",CIB,🇨🇴 Colombia,6.91,27.33
-179,Bank Pekao (Bank Polska Kasa Opieki),PEO.WA,🇵🇱 Poland,6.83,26.04
+",CIB,Colombia,6.91,27.33,0
+179,Bank Pekao (Bank Polska Kasa Opieki),PEO.WA,Poland,6.83,26.04,0
 180,"Banco Sabadell
-",SAB.MC,🇪🇸 Spain,6.75,1.21
-181,The Commercial Bank (P.S.Q.C.),CBQK.QA,🇶🇦 Qatar,6.71,1.66
-182,Sinopac Financial Holdings,2890.TW,🇹🇼 Taiwan,6.56,0.54
+",SAB.MC,Spain,6.75,1.21,0
+181,The Commercial Bank (P.S.Q.C.),CBQK.QA,Qatar,6.71,1.66,0
+182,Sinopac Financial Holdings,2890.TW,Taiwan,6.56,0.54,0
 183,"Banca Mediolanum
-",BMED.MI,🇮🇹 Italy,6.54,8.85
-184,Shanghai Commercial and Savings Bank,5876.TW,🇹🇼 Taiwan,6.49,1.34
-185,National Bank of Greece,ETE.AT,🇬🇷 Greece,6.32,6.92
-186,Cullen/Frost Bankers,CFR,🇺🇸 USA,6.29,97.76
+",BMED.MI,Italy,6.54,8.85,0
+184,Shanghai Commercial and Savings Bank,5876.TW,Taiwan,6.49,1.34,0
+185,National Bank of Greece,ETE.AT,Greece,6.32,6.92,0
+186,Cullen/Frost Bankers,CFR,USA,6.29,97.76,0
 187,"Commerce Bancshares
-",CBSH,🇺🇸 USA,6.27,50.28
-188,Industrial Bank of Korea (IBK),024110.KS,🇰🇷 S. Korea,6.21,7.79
-189,Woori Financial Group,WF,🇰🇷 S. Korea,6.2,25.55
-190,Eurobank Ergasias Services and Holdings,EUROB.AT,🇬🇷 Greece,6.19,1.67
-191,Türkiye Is Bankasi,ISCTR.IS,🇹🇷 Turkey,6.18,0.61
-192,China Development Financial,2883.TW,🇹🇼 Taiwan,6.16,0.37
+",CBSH,USA,6.27,50.28,0
+188,Industrial Bank of Korea (IBK),024110.KS,S. Korea,6.21,7.79,0
+189,Woori Financial Group,WF,S. Korea,6.2,25.55,0
+190,Eurobank Ergasias Services and Holdings,EUROB.AT,Greece,6.19,1.67,0
+191,Türkiye Is Bankasi,ISCTR.IS,Turkey,6.18,0.61,0
+192,China Development Financial,2883.TW,Taiwan,6.16,0.37,0
 193,"Indian Bank
-",INDIANB.NS,🇮🇳 India,6.11,4.91
-194,Komerční banka,KOMB.PR,🇨🇿 Czech Republic,6.08,32.21
-195,Masraf Al Rayan,MARK.QA,🇶🇦 Qatar,5.94,0.64
-196,Bankinter,BKT.MC,🇪🇸 Spain,5.89,6.55
+",INDIANB.NS,India,6.11,4.91,0
+194,Komerční banka,KOMB.PR,Czech Republic,6.08,32.21,0
+195,Masraf Al Rayan,MARK.QA,Qatar,5.94,0.64,0
+196,Bankinter,BKT.MC,Spain,5.89,6.55,0
 197,"Yes Bank
-",YESBANK.NS,🇮🇳 India,5.86,0.2
-198,Chang Hwa Commercial Bank,2801.TW,🇹🇼 Taiwan,5.73,0.54
-199,AU Small Finance Bank,AUBANK.NS,🇮🇳 India,5.69,8.53
-200,BOK Financial,BOKF,🇺🇸 USA,5.57,83.75
-201,South State Corp,SSB,🇺🇸 USA,5.52,72.84
-202,Chiba Bank,CHBAY,🇯🇵 Japan,5.52,37.38
-203,Nedbank,NED.JO,🇿🇦 South Africa,5.39,11.08
-204,Akbank,AKBNK.IS,🇹🇷 Turkey,5.39,1.04
-205,Chongqing Rural Commercial Bank,3618.HK,🇨🇳 China,5.32,0.34
+",YESBANK.NS,India,5.86,0.2,0
+198,Chang Hwa Commercial Bank,2801.TW,Taiwan,5.73,0.54,0
+199,AU Small Finance Bank,AUBANK.NS,India,5.69,8.53,0
+200,BOK Financial,BOKF,USA,5.57,83.75,0
+201,South State Corp,SSB,USA,5.52,72.84,0
+202,Chiba Bank,CHBAY,Japan,5.52,37.38,0
+203,Nedbank,NED.JO,South Africa,5.39,11.08,0
+204,Akbank,AKBNK.IS,Turkey,5.39,1.04,0
+205,Chongqing Rural Commercial Bank,3618.HK,China,5.32,0.34,0
 206,"Western Alliance Bancorporation
-",WAL,🇺🇸 USA,5.31,48.53
+",WAL,USA,5.31,48.53,0
 207,"Zions Bancorporation
-",ZION,🇺🇸 USA,5.17,34.96
-208,Discovery Limited,DSY.JO,🇿🇦 South Africa,5.15,7.83
+",ZION,USA,5.17,34.96,0
+208,Discovery Limited,DSY.JO,South Africa,5.15,7.83,0
 209,"Pinnacle Financial Partners
-",PNFP,🇺🇸 USA,5.12,66.78
+",PNFP,USA,5.12,66.78,0
 210,"Banco de Crédito e Inversiones
-",BCI.SN,🇨🇱 Chile,4.9,29.06
+",BCI.SN,Chile,4.9,29.06,0
 211,"Yapı Kredi
-",YKBNK.IS,🇹🇷 Turkey,4.89,0.58
-212,Commercial International Bank,CIN.F,🇪🇬 Egypt,4.85,1.15
+",YKBNK.IS,Turkey,4.89,0.58,0
+212,Commercial International Bank,CIN.F,Egypt,4.85,1.15,0
 213,"TMBThanachart Bank (ttb)
-",TTB.BK,🇹🇭 Thailand,4.84,0.05
-214,Banco Popular ,BPOP,🇺🇸 USA,4.82,66.95
-215,Wintrust Financial,WTFC,🇺🇸 USA,4.77,77.99
-216,Hong Leong Financial Group,1082.KL,🇲🇾 Malaysia,4.65,3.98
-217,Jyske Bank,JYSK.CO,🇩🇰 Denmark,4.64,72.23
-218,Metropolitan Bank (Metrobank),MTPOF, Philippines,4.63,1.03
-219,Raiffeisen Bank International,RAW.F,🇦🇹 Austria,4.59,13.91
+",TTB.BK,Thailand,4.84,0.05,0
+214,Banco Popular ,BPOP,USA,4.82,66.95,0
+215,Wintrust Financial,WTFC,USA,4.77,77.99,0
+216,Hong Leong Financial Group,1082.KL,Malaysia,4.65,3.98,0
+217,Jyske Bank,JYSK.CO,Denmark,4.64,72.23,0
+218,Metropolitan Bank (Metrobank),MTPOF,Philippines,4.63,1.03,0
+219,Raiffeisen Bank International,RAW.F,Austria,4.59,13.91,0
 220,"Synovus
-",SNV,🇺🇸 USA,4.55,31.19
+",SNV,USA,4.55,31.19,0
 221,"Bank OZK
-",OZK,🇺🇸 USA,4.55,40.27
-222,Shin Kong Financial Holding,2888.TW,🇹🇼 Taiwan,4.54,0.29
-223,Piraeus Financial Holdings,TPEIR.AT,🇬🇷 Greece,4.51,3.61
-224,Saudi Investment Bank,1030.SR,🇸🇦 S. Arabia,4.48,4.48
+",OZK,USA,4.55,40.27,0
+222,Shin Kong Financial Holding,2888.TW,Taiwan,4.54,0.29,0
+223,Piraeus Financial Holdings,TPEIR.AT,Greece,4.51,3.61,0
+224,Saudi Investment Bank,1030.SR,S. Arabia,4.48,4.48,0
 225,"Bandhan Bank
-",BANDHANBNK.NS,🇮🇳 India,4.46,2.77
-226,Galicia Financial Group,GGAL,🇦🇷 Argentina,4.42,15.08
+",BANDHANBNK.NS,India,4.46,2.77,0
+226,Galicia Financial Group,GGAL,Argentina,4.42,15.08,0
 227,"Bank of India
-",BANKINDIA.NS,🇮🇳 India,4.41,1.08
-228,mBank,MBK.WA,🇵🇱 Poland,4.38,103.27
+",BANKINDIA.NS,India,4.41,1.08,0
+228,mBank,MBK.WA,Poland,4.38,103.27,0
 229,"Cadence Bancorp
-",CADE,🇺🇸 USA,4.31,23.64
+",CADE,USA,4.31,23.64,0
 230,"F.N.B. Corporation
-",FNB,🇺🇸 USA,4.24,11.83
-231,BPER Banca,BPE.MI,🇮🇹 Italy,4.24,3.0
-232,Fukuoka Financial Group,8354.T,🇯🇵 Japan,4.23,22.58
-233,First Financial Bankshares,FFIN,🇺🇸 USA,4.22,29.6
-234,Luzerner Kantonalbank,LUKN.SW,🇨🇭 Switzerland,4.22,85.13
-235,Qatar International Islamic Bank,QIIK.QA,🇶🇦 Qatar,4.17,2.76
-236,United Bankshares,UBSI,🇺🇸 USA,4.16,30.86
+",FNB,USA,4.24,11.83,0
+231,BPER Banca,BPE.MI,Italy,4.24,3.0,0
+232,Fukuoka Financial Group,8354.T,Japan,4.23,22.58,0
+233,First Financial Bankshares,FFIN,USA,4.22,29.6,0
+234,Luzerner Kantonalbank,LUKN.SW,Switzerland,4.22,85.13,0
+235,Qatar International Islamic Bank,QIIK.QA,Qatar,4.17,2.76,0
+236,United Bankshares,UBSI,USA,4.16,30.86,0
 237,"Banco Macro
-",BMA,🇦🇷 Argentina,4.16,22.41
-238,Columbia Banking System,COLB,🇺🇸 USA,4.11,19.73
-239,First International Bank of Israel,FIBI.TA,🇮🇱 Israel,4.09,40.83
-240,Banco Comercial Português (Millennium bcp),BCP.LS,🇵🇹 Portugal,4.08,0.27
-241,Banca Generali,BGN.MI,🇮🇹 Italy,4.01,35.19
-242,Ringkjøbing Landbobank,RILBA.CO,🇩🇰 Denmark,4.0,147.66
-243,Commercial Bank of Kuwait,CBK.KW,🇰🇼 Kuwait,3.99,2111.0
+",BMA,Argentina,4.16,22.41,0
+238,Columbia Banking System,COLB,USA,4.11,19.73,0
+239,First International Bank of Israel,FIBI.TA,Israel,4.09,40.83,0
+240,Banco Comercial Português (Millennium bcp),BCP.LS,Portugal,4.08,0.27,0
+241,Banca Generali,BGN.MI,Italy,4.01,35.19,0
+242,Ringkjøbing Landbobank,RILBA.CO,Denmark,4.0,147.66,0
+243,Commercial Bank of Kuwait,CBK.KW,Kuwait,3.99,2111.0,0
 244,"Bank Mega
-",MEGA.JK,🇮🇩 Indonesia,3.95,0.34
-245,JSC Halyk Bank,H4L1.F,🇰🇿 Kazakhstan,3.93,14.25
-246,TFS Financial,TFSL,🇺🇸 USA,3.93,14.03
-247,Bank AlJazira,1020.SR,🇸🇦 S. Arabia,3.9,4.76
-248,Alpha Services and Holdings,ALPHA.AT,🇬🇷 Greece,3.81,1.63
-249,BAWAG Group,0B2.F,🇦🇹 Austria,3.81,46.48
-250,Banca Monte dei Paschi di Siena,BMPS.MI,🇮🇹 Italy,3.64,2.89
-251,Banco del Bajío,BBAJIOO.MX,🇲🇽 Mexico,3.63,3.05
-252,Credit Suisse,CS,🇨🇭 Switzerland,3.56,0.89
+",MEGA.JK,Indonesia,3.95,0.34,0
+245,JSC Halyk Bank,H4L1.F,Kazakhstan,3.93,14.25,0
+246,TFS Financial,TFSL,USA,3.93,14.03,0
+247,Bank AlJazira,1020.SR,S. Arabia,3.9,4.76,0
+248,Alpha Services and Holdings,ALPHA.AT,Greece,3.81,1.63,0
+249,BAWAG Group,0B2.F,Austria,3.81,46.48,0
+250,Banca Monte dei Paschi di Siena,BMPS.MI,Italy,3.64,2.89,0
+251,Banco del Bajío,BBAJIOO.MX,Mexico,3.63,3.05,0
+252,Credit Suisse,CS,Switzerland,3.56,0.89,0
 253,"Bank of East Asia
-",0023.HK,🇭🇰 Hong Kong,3.56,1.34
-254,Halkbank,HALKB.IS,🇹🇷 Turkey,3.51,0.49
-255,Sallie Mae,SLM,🇺🇸 USA,3.49,14.41
-256,Federal Bank,FEDERALBNK.NS,🇮🇳 India,3.48,1.62
-257,EFG International,EFGN.SW,🇨🇭 Switzerland,3.47,11.4
+",0023.HK,Hong Kong,3.56,1.34,0
+254,Halkbank,HALKB.IS,Turkey,3.51,0.49,0
+255,Sallie Mae,SLM,USA,3.49,14.41,0
+256,Federal Bank,FEDERALBNK.NS,India,3.48,1.62,0
+257,EFG International,EFGN.SW,Switzerland,3.47,11.4,0
 258,"Glacier Bancorp
-",GBCI,🇺🇸 USA,3.46,31.26
+",GBCI,USA,3.46,31.26,0
 259,"Taiwan Business Bank
-",2834.TW,🇹🇼 Taiwan,3.46,0.43
-260,St. Galler Kantonalbank,SGKN.SW,🇨🇭 Switzerland,3.42,570.96
-261,Bendigo and Adelaide Bank,BEN.AX,🇦🇺 Australia,3.37,5.95
-262,United Community Bank,UCBI,🇺🇸 USA,3.31,27.97
+",2834.TW,Taiwan,3.46,0.43,0
+260,St. Galler Kantonalbank,SGKN.SW,Switzerland,3.42,570.96,0
+261,Bendigo and Adelaide Bank,BEN.AX,Australia,3.37,5.95,0
+262,United Community Bank,UCBI,USA,3.31,27.97,0
 263,"Bank of Maharashtra
-",MAHABANK.NS,🇮🇳 India,3.26,0.46
-264,BancFirst,BANF,🇺🇸 USA,3.21,97.64
-265,VakıfBank,VAKBN.IS,🇹🇷 Turkey,3.19,0.48
-266,UMB Financial,UMBF,🇺🇸 USA,3.17,65.5
-267,ServisFirst Bancshares,SFBS,🇺🇸 USA,3.16,58.22
-268,Unicaja Banco,UNI.MC,🇪🇸 Spain,2.94,1.11
-269,Punjab & Sind Bank,PSB.NS,🇮🇳 India,2.91,0.43
-270,Texas Capital Bancshares,TCBI,🇺🇸 USA,2.88,60.14
-271,First Interstate BancSystem,FIBK,🇺🇸 USA,2.82,27.02
-272,Gulf Bank,GBK.KW,🇰🇼 Kuwait,2.8,834.69
-273,International Bancshares Corp,IBOC,🇺🇸 USA,2.79,45.04
-274,Sydbank A/S,SYDB.CO,🇩🇰 Denmark,2.79,49.52
-275,Credito Emiliano,CE.MI,🇮🇹 Italy,2.77,8.18
-276,Virgin Money UK,VMUK.L,🇬🇧 UK,2.76,2.03
-277,Ahli Bank,ABQK.QA,🇶🇦 Qatar,2.75,1.08
+",MAHABANK.NS,India,3.26,0.46,0
+264,BancFirst,BANF,USA,3.21,97.64,0
+265,VakıfBank,VAKBN.IS,Turkey,3.19,0.48,0
+266,UMB Financial,UMBF,USA,3.17,65.5,0
+267,ServisFirst Bancshares,SFBS,USA,3.16,58.22,0
+268,Unicaja Banco,UNI.MC,Spain,2.94,1.11,0
+269,Punjab & Sind Bank,PSB.NS,India,2.91,0.43,0
+270,Texas Capital Bancshares,TCBI,USA,2.88,60.14,0
+271,First Interstate BancSystem,FIBK,USA,2.82,27.02,0
+272,Gulf Bank,GBK.KW,Kuwait,2.8,834.69,0
+273,International Bancshares Corp,IBOC,USA,2.79,45.04,0
+274,Sydbank A/S,SYDB.CO,Denmark,2.79,49.52,0
+275,Credito Emiliano,CE.MI,Italy,2.77,8.18,0
+276,Virgin Money UK,VMUK.L,UK,2.76,2.03,0
+277,Ahli Bank,ABQK.QA,Qatar,2.75,1.08,0
 278,"Associated Banc-Corp
-",ASB,🇺🇸 USA,2.65,17.57
-279,Community Bank System,CBU,🇺🇸 USA,2.6,48.54
-280,WSFS Financial,WSFS,🇺🇸 USA,2.58,42.0
-281,Cathay General Bancorp,CATY,🇺🇸 USA,2.54,35.14
-282,Berner Kantonalbank,BEKN.SW,🇨🇭 Switzerland,2.51,271.29
-283,Independent Bank Corp (Massachusetts),INDB,🇺🇸 USA,2.47,56.04
-284,CVB Financial,CVBF,🇺🇸 USA,2.47,17.75
+",ASB,USA,2.65,17.57,0
+279,Community Bank System,CBU,USA,2.6,48.54,0
+280,WSFS Financial,WSFS,USA,2.58,42.0,0
+281,Cathay General Bancorp,CATY,USA,2.54,35.14,0
+282,Berner Kantonalbank,BEKN.SW,Switzerland,2.51,271.29,0
+283,Independent Bank Corp (Massachusetts),INDB,USA,2.47,56.04,0
+284,CVB Financial,CVBF,USA,2.47,17.75,0
 285,"First Hawaiian Bank
-",FHB,🇺🇸 USA,2.46,19.34
-286,Eastern Bankshares,EBC,🇺🇸 USA,2.39,13.59
+",FHB,USA,2.46,19.34,0
+286,Eastern Bankshares,EBC,USA,2.39,13.59,0
 287,"Axos Financial
-",AX,🇺🇸 USA,2.39,40.44
-288,Oberbank,OBS.VI,🇦🇹 Austria,2.36,66.99
-289,Simmons First National,SFNC,🇺🇸 USA,2.31,18.18
-290,Atlantic Union Bankshares,AUB,🇺🇸 USA,2.3,30.7
-291,Itaú CorpBanca,ITCB,🇨🇱 Chile,2.28,3.42
+",AX,USA,2.39,40.44,0
+288,Oberbank,OBS.VI,Austria,2.36,66.99,0
+289,Simmons First National,SFNC,USA,2.31,18.18,0
+290,Atlantic Union Bankshares,AUB,USA,2.3,30.7,0
+291,Itaú CorpBanca,ITCB,Chile,2.28,3.42,0
 292,"Bank Jago
-",ARTO.JK,🇮🇩 Indonesia,2.27,0.16
-293,Permata Bank,BNLI.JK,🇮🇩 Indonesia,2.27,0.06
-294,TISCO Financial Group,TISCO.BK,🇹🇭 Thailand,2.26,2.83
+",ARTO.JK,Indonesia,2.27,0.16,0
+293,Permata Bank,BNLI.JK,Indonesia,2.27,0.06,0
+294,TISCO Financial Group,TISCO.BK,Thailand,2.26,2.83,0
 295,"Pacific Premier Bancorp
-",PPBI,🇺🇸 USA,2.23,23.3
-296,Fulton Financial,FULT,🇺🇸 USA,2.2,13.28
-297,Burgan Bank,BURG.KW,🇰🇼 Kuwait,2.17,630.07
+",PPBI,USA,2.23,23.3,0
+296,Fulton Financial,FULT,USA,2.2,13.28,0
+297,Burgan Bank,BURG.KW,Kuwait,2.17,630.07,0
 298,"Bank of Hawaii
-",BOH,🇺🇸 USA,2.15,54.19
+",BOH,USA,2.15,54.19,0
 299,"Aareal Bank
-",ARL.F,🇩🇪 Germany,2.14,35.61
-300,Is Yatirim Menkul Degerler Anonim Sirketi,ISMEN.IS,🇹🇷 Turkey,2.13,1.42
-301,Cembra Money Bank,CMBN.SW,🇨🇭 Switzerland,2.12,72.36
-302,EQB (Equitable Bank),EQB.TO,🇨🇦 Canada,2.09,55.49
-303,Banca Popolare di Sondrio,BPSO.MI,🇮🇹 Italy,2.07,4.62
+",ARL.F,Germany,2.14,35.61,0
+300,Is Yatirim Menkul Degerler Anonim Sirketi,ISMEN.IS,Turkey,2.13,1.42,0
+301,Cembra Money Bank,CMBN.SW,Switzerland,2.12,72.36,0
+302,EQB (Equitable Bank),EQB.TO,Canada,2.09,55.49,0
+303,Banca Popolare di Sondrio,BPSO.MI,Italy,2.07,4.62,0
 304,"First Financial Bank
-",FFBC,🇺🇸 USA,2.06,21.7
+",FFBC,USA,2.06,21.7,0
 305,"Piper Sandler
-",PIPR,🇺🇸 USA,2.02,137.06
+",PIPR,USA,2.02,137.06,0
 306,"MONETA Money Bank
-",MONET.PR,🇨🇿 Czech Republic,1.98,3.89
-307,Bank of Georgia Group,BGEO.L,🇬🇧 UK,1.95,42.61
+",MONET.PR,Czech Republic,1.98,3.89,0
+307,Bank of Georgia Group,BGEO.L,UK,1.95,42.61,0
 308,"BankUnited
-",BKU,🇺🇸 USA,1.95,26.28
-309,Seacoast Banking,SBCF,🇺🇸 USA,1.95,23.12
+",BKU,USA,1.95,26.28,0
+309,Seacoast Banking,SBCF,USA,1.95,23.12,0
 310,"The Bancorp
-",TBBK,🇺🇸 USA,1.94,35.59
-311,BFF Bank,BFF.MI,🇮🇹 Italy,1.94,10.46
+",TBBK,USA,1.94,35.59,0
+311,BFF Bank,BFF.MI,Italy,1.94,10.46,0
 312,"Bank Danamon
-",BDMN.JK,🇮🇩 Indonesia,1.89,0.19
-313,Ahli United Bank,ALMUTAHED.KW,🇰🇼 Kuwait,1.88,837.93
-314,WaFd Bank,WAFD,🇺🇸 USA,1.86,28.78
-315,Spar Nord Bank A/S,SPNO.CO,🇩🇰 Denmark,1.83,15.44
+",BDMN.JK,Indonesia,1.89,0.19,0
+313,Ahli United Bank,ALMUTAHED.KW,Kuwait,1.88,837.93,0
+314,WaFd Bank,WAFD,USA,1.86,28.78,0
+315,Spar Nord Bank A/S,SPNO.CO,Denmark,1.83,15.44,0
 316,"TowneBank
-",TOWN,🇺🇸 USA,1.8,24.19
+",TOWN,USA,1.8,24.19,0
 317,"First Merchants Corporation
-",FRME,🇺🇸 USA,1.8,30.51
-318,Canadian Western Bank,CWB.TO,🇨🇦 Canada,1.78,18.56
-319,Bank für Tirol und Vorarlberg,BTS.VI,🇦🇹 Austria,1.77,47.85
-320,Independent Bank Group,IBTX,🇺🇸 USA,1.76,42.72
-321,Inter & Co,INTR,🇧🇷 Brazil,1.76,4.38
-322,Türkiye Kalkınma,KLNMA.IS,🇹🇷 Turkey,1.75,0.7
-323,Park National Corp,PRK,🇺🇸 USA,1.7,105.5
-324,Renasant Corp,RNST,🇺🇸 USA,1.66,29.71
+",FRME,USA,1.8,30.51,0
+318,Canadian Western Bank,CWB.TO,Canada,1.78,18.56,0
+319,Bank für Tirol und Vorarlberg,BTS.VI,Austria,1.77,47.85,0
+320,Independent Bank Group,IBTX,USA,1.76,42.72,0
+321,Inter & Co,INTR,Brazil,1.76,4.38,0
+322,Türkiye Kalkınma,KLNMA.IS,Turkey,1.75,0.7,0
+323,Park National Corp,PRK,USA,1.7,105.5,0
+324,Renasant Corp,RNST,USA,1.66,29.71,0
 325,"RBL Bank
-",RBLBANK.NS,🇮🇳 India,1.57,2.63
-326,Arion banki,ARION.IC,🇮🇸 Iceland,1.56,1.08
-327,WesBanco,WSBC,🇺🇸 USA,1.55,26.26
-328,NBT Bancorp,NBTB,🇺🇸 USA,1.55,36.17
-329,Close Brothers Group,CBG.L,🇬🇧 UK,1.53,10.19
+",RBLBANK.NS,India,1.57,2.63,0
+326,Arion banki,ARION.IC,Iceland,1.56,1.08,0
+327,WesBanco,WSBC,USA,1.55,26.26,0
+328,NBT Bancorp,NBTB,USA,1.55,36.17,0
+329,Close Brothers Group,CBG.L,UK,1.53,10.19,0
 330,"Banner Bank
-",BANR,🇺🇸 USA,1.52,44.47
+",BANR,USA,1.52,44.47,0
 331,"Live Oak Bank
-",LOB,🇺🇸 USA,1.51,34.17
-332,FB Financial,FBK,🇺🇸 USA,1.5,32.14
-333,Trustmark,TRMK,🇺🇸 USA,1.5,24.6
-334,Triumph Financial,TFIN,🇺🇸 USA,1.5,64.54
-335,Enterprise Financial Services Corp,EFSC,🇺🇸 USA,1.49,40.03
+",LOB,USA,1.51,34.17,0
+332,FB Financial,FBK,USA,1.5,32.14,0
+333,Trustmark,TRMK,USA,1.5,24.6,0
+334,Triumph Financial,TFIN,USA,1.5,64.54,0
+335,Enterprise Financial Services Corp,EFSC,USA,1.49,40.03,0
 336,"OFG Bancorp
-",OFG,🇺🇸 USA,1.46,31.21
+",OFG,USA,1.46,31.21,0
 337,"First National of Nebraska
-",FINN,🇺🇸 USA,1.45,12502.0
-338,Doha Bank,DHBK.QA,🇶🇦 Qatar,1.45,0.47
+",FINN,USA,1.45,12502.0,0
+338,Doha Bank,DHBK.QA,Qatar,1.45,0.47,0
 339,"Northwest Bank
-",NWBI,🇺🇸 USA,1.45,11.45
-340,Lakeland Financial Corp,LKFN,🇺🇸 USA,1.43,56.5
-341,Bank of N. T. Butterfield & Son,NTB,🇧🇲 Bermuda,1.42,28.57
-342,SpareBank 1,SPOL.OL,🇳🇴 Norway,1.41,12.22
+",NWBI,USA,1.45,11.45,0
+340,Lakeland Financial Corp,LKFN,USA,1.43,56.5,0
+341,Bank of N. T. Butterfield & Son,NTB,Bermuda,1.42,28.57,0
+342,SpareBank 1,SPOL.OL,Norway,1.41,12.22,0
 343,"Bank Islam Malaysia
-",BIMB.KL,🇲🇾 Malaysia,1.4,0.78
-344,Stock Yards Bancorp,SYBT,🇺🇸 USA,1.39,47.63
-345,City Holding Company,CHCO,🇺🇸 USA,1.39,92.47
-346,First Commonwealth Financial Corp,FCF,🇺🇸 USA,1.38,13.5
-347,Van Lanschot Kempen,VLK.AS,🇳🇱 Netherlands,1.38,33.11
-348,Al Ahli Bank of Kuwait,ABK.KW,🇰🇼 Kuwait,1.37,740.5
+",BIMB.KL,Malaysia,1.4,0.78,0
+344,Stock Yards Bancorp,SYBT,USA,1.39,47.63,0
+345,City Holding Company,CHCO,USA,1.39,92.47,0
+346,First Commonwealth Financial Corp,FCF,USA,1.38,13.5,0
+347,Van Lanschot Kempen,VLK.AS,Netherlands,1.38,33.11,0
+348,Al Ahli Bank of Kuwait,ABK.KW,Kuwait,1.37,740.5,0
 349,"Guaranty Trust Bank
-",9JO.F,🇳🇬 Nigeria,1.34,2.28
-350,Heartland Financial USA,HTLF,🇺🇸 USA,1.33,31.42
-351,Warba Bank,WARBABANK.KW,🇰🇼 Kuwait,1.33,649.56
-352,Merchants Bancorp,MBIN,🇺🇸 USA,1.3,30.07
+",9JO.F,Nigeria,1.34,2.28,0
+350,Heartland Financial USA,HTLF,USA,1.33,31.42,0
+351,Warba Bank,WARBABANK.KW,Kuwait,1.33,649.56,0
+352,Merchants Bancorp,MBIN,USA,1.3,30.07,0
 353,"Pathward Financial
-",CASH,🇺🇸 USA,1.29,48.15
-354,Provident Financial Services,PFS,🇺🇸 USA,1.28,17.05
+",CASH,USA,1.29,48.15,0
+354,Provident Financial Services,PFS,USA,1.28,17.05,0
 355,"First Bancorp
-",FBNC,🇺🇸 USA,1.27,31.22
-356,Laurentian Bank of Canada,LB.TO,🇨🇦 Canada,1.27,29.22
+",FBNC,USA,1.27,31.22,0
+356,Laurentian Bank of Canada,LB.TO,Canada,1.27,29.22,0
 357,"National Bank Holdings
-",NBHC,🇺🇸 USA,1.24,33.08
+",NBHC,USA,1.24,33.08,0
 358,"Westamerica Bancorporation
-",WABC,🇺🇸 USA,1.21,45.77
-359,Stellar Bancorp,STEL,🇺🇸 USA,1.21,22.87
+",WABC,USA,1.21,45.77,0
+359,Stellar Bancorp,STEL,USA,1.21,22.87,0
 360,"Customers Bancorp
-",CUBI,🇺🇸 USA,1.21,35.99
-361,TriCo Bancshares,TCBK,🇺🇸 USA,1.2,36.4
-362,Hope Bancorp,HOPE,🇺🇸 USA,1.18,9.86
+",CUBI,USA,1.21,35.99,0
+361,TriCo Bancshares,TCBK,USA,1.2,36.4,0
+362,Hope Bancorp,HOPE,USA,1.18,9.86,0
 363,"Karur Vysya Bank
-",KARURVYSYA.NS,🇮🇳 India,1.16,1.45
-364,First Busey,BUSE,🇺🇸 USA,1.15,20.8
-365,Nicolet Bankshares,NIC,🇺🇸 USA,1.14,77.49
-366,S&T Bancorp,STBA,🇺🇸 USA,1.12,29.43
+",KARURVYSYA.NS,India,1.16,1.45,0
+364,First Busey,BUSE,USA,1.15,20.8,0
+365,Nicolet Bankshares,NIC,USA,1.14,77.49,0
+366,S&T Bancorp,STBA,USA,1.12,29.43,0
 367,"1st Source
-",SRCE,🇺🇸 USA,1.09,44.51
+",SRCE,USA,1.09,44.51,0
 368,"City Union Bank
-",CUB.NS,🇮🇳 India,1.08,1.47
+",CUB.NS,India,1.08,1.47,0
 369,"Veritex Holdings
-",VBTX,🇺🇸 USA,1.06,19.68
-370,ACLEDA Bank,ABC.KH,🇰🇭 Cambodia,1.04,2.42
-371,Banco de Brasília,BSLI3.SA,🇧🇷 Brazil,1.04,2.99
-372,OceanFirst Financial,OCFC,🇺🇸 USA,1.04,17.56
-373,Deutsche Pfandbriefbank,PBB.DE,🇩🇪 Germany,1.03,7.7
-374,Sandy Spring Bank,SASR,🇺🇸 USA,1.03,23.0
-375,BBVA Argentina,BBAR,🇦🇷 Argentina,1.0,4.94
-376,Berkshire Hills Bancorp,BHLB,🇺🇸 USA,1.0,22.21
-377,Southside Bancshares,SBSI,🇺🇸 USA,0.96,31.05
-378,Peoples Bancorp,PEBO,🇺🇸 USA,0.95,26.93
-379,Origin Bancorp,OBK,🇺🇸 USA,0.94,30.85
-380,PacWest Bancorp,PACW,🇺🇸 USA,0.94,7.85
-381,The First Bancshares,FBMS,🇺🇸 USA,0.94,29.3
-382,Dah Sing Banking Group,2356.HK,🇭🇰 Hong Kong,0.91,0.65
-383,Preferred Bank,PFBC,🇺🇸 USA,0.9,63.81
-384,Lakeland Bancorp,LBAI,🇺🇸 USA,0.89,13.83
-385,Republic Bank,RBCAA,🇺🇸 USA,0.89,45.49
-386,Brookline Bancorp,BRKL,🇺🇸 USA,0.88,9.9
-387,Dime Community Bancshares,DCOM,🇺🇸 USA,0.86,22.37
-388,German American Bancorp,GABC,🇺🇸 USA,0.86,29.29
-389,Banco Latinoamericano de Comercio Exterior,BLX,🇵🇦 Panama,0.86,23.79
+",VBTX,USA,1.06,19.68,0
+370,ACLEDA Bank,ABC.KH,Cambodia,1.04,2.42,0
+371,Banco de Brasília,BSLI3.SA,Brazil,1.04,2.99,0
+372,OceanFirst Financial,OCFC,USA,1.04,17.56,0
+373,Deutsche Pfandbriefbank,PBB.DE,Germany,1.03,7.7,0
+374,Sandy Spring Bank,SASR,USA,1.03,23.0,0
+375,BBVA Argentina,BBAR,Argentina,1.0,4.94,0
+376,Berkshire Hills Bancorp,BHLB,USA,1.0,22.21,0
+377,Southside Bancshares,SBSI,USA,0.96,31.05,0
+378,Peoples Bancorp,PEBO,USA,0.95,26.93,0
+379,Origin Bancorp,OBK,USA,0.94,30.85,0
+380,PacWest Bancorp,PACW,USA,0.94,7.85,0
+381,The First Bancshares,FBMS,USA,0.94,29.3,0
+382,Dah Sing Banking Group,2356.HK,Hong Kong,0.91,0.65,0
+383,Preferred Bank,PFBC,USA,0.9,63.81,0
+384,Lakeland Bancorp,LBAI,USA,0.89,13.83,0
+385,Republic Bank,RBCAA,USA,0.89,45.49,0
+386,Brookline Bancorp,BRKL,USA,0.88,9.9,0
+387,Dime Community Bancshares,DCOM,USA,0.86,22.37,0
+388,German American Bancorp,GABC,USA,0.86,29.29,0
+389,Banco Latinoamericano de Comercio Exterior,BLX,Panama,0.86,23.79,0
 390,"Karnataka Bank
-",KTKBANK.NS,🇮🇳 India,0.86,2.75
+",KTKBANK.NS,India,0.86,2.75,0
 391,"QCR Holdings
-",QCRH,🇺🇸 USA,0.86,51.45
+",QCRH,USA,0.86,51.45,0
 392,"Capitol Federal Savings Bank
-",CFFN,🇺🇸 USA,0.84,6.2
-393,Bank First,BFC,🇺🇸 USA,0.83,80.08
-394,Byline Bancorp,BY,🇺🇸 USA,0.8,21.37
-395,Tompkins Financial,TMP,🇺🇸 USA,0.79,55.43
-396,ConnectOne Bancorp,CNOB,🇺🇸 USA,0.78,19.99
-397,Eagle Bancorp,EGBN,🇺🇸 USA,0.77,25.07
+",CFFN,USA,0.84,6.2,0
+393,Bank First,BFC,USA,0.83,80.08,0
+394,Byline Bancorp,BY,USA,0.8,21.37,0
+395,Tompkins Financial,TMP,USA,0.79,55.43,0
+396,ConnectOne Bancorp,CNOB,USA,0.78,19.99,0
+397,Eagle Bancorp,EGBN,USA,0.77,25.07,0
 398,"Aktia Bank
-",AKTIA.HE,🇫🇮 Finland,0.72,9.97
-399,Banc of California,BANC,🇺🇸 USA,0.72,12.41
-400,Premier Financial,PFC,🇺🇸 USA,0.7,19.67
-401,Dah Sing Financial,0440.HK,🇭🇰 Hong Kong,0.69,2.16
+",AKTIA.HE,Finland,0.72,9.97,0
+399,Banc of California,BANC,USA,0.72,12.41,0
+400,Premier Financial,PFC,USA,0.7,19.67,0
+401,Dah Sing Financial,0440.HK,Hong Kong,0.69,2.16,0
 402,"CSB Bank
-",CSBBANK.NS,🇮🇳 India,0.67,3.88
-403,Old Second Bancorp,OSBC,🇺🇸 USA,0.66,14.96
-404,Community Trust Bancorp,CTBI,🇺🇸 USA,0.66,36.98
+",CSBBANK.NS,India,0.67,3.88,0
+403,Old Second Bancorp,OSBC,USA,0.66,14.96,0
+404,Community Trust Bancorp,CTBI,USA,0.66,36.98,0
 405,"First Republic Bank
-",FRC,🇺🇸 USA,0.65,3.51
-406,Great Southern Bancorp,GSBC,🇺🇸 USA,0.63,52.75
-407,Heritage Financial,HFWA,🇺🇸 USA,0.62,17.9
-408,HBT Financial,HBT,🇺🇸 USA,0.61,19.29
-409,Amerant Bancorp,AMTB,🇺🇸 USA,0.58,19.66
-410,First Mid-Illinois Bancshares,FMBH,🇺🇸 USA,0.58,28.33
-411,Amalgamated Financial,AMAL,🇺🇸 USA,0.57,18.75
+",FRC,USA,0.65,3.51,0
+406,Great Southern Bancorp,GSBC,USA,0.63,52.75,0
+407,Heritage Financial,HFWA,USA,0.62,17.9,0
+408,HBT Financial,HBT,USA,0.61,19.29,0
+409,Amerant Bancorp,AMTB,USA,0.58,19.66,0
+410,First Mid-Illinois Bancshares,FMBH,USA,0.58,28.33,0
+411,Amalgamated Financial,AMAL,USA,0.57,18.75,0
 412,"South Indian Bank
-",SOUTHBANK.NS,🇮🇳 India,0.56,0.27
-413,Hanmi Financial,HAFC,🇺🇸 USA,0.55,18.06
-414,Greene County Bancorp,GCBC,🇺🇸 USA,0.54,32.3
-415,TrustCo Bank,TRST,🇺🇸 USA,0.54,28.89
-416,Heritage Commerce,HTBK,🇺🇸 USA,0.54,9.01
-417,Mercantile Bank,MBWM,🇺🇸 USA,0.54,34.04
-418,Northfield Bancorp,NFBK,🇺🇸 USA,0.53,11.53
+",SOUTHBANK.NS,India,0.56,0.27,0
+413,Hanmi Financial,HAFC,USA,0.55,18.06,0
+414,Greene County Bancorp,GCBC,USA,0.54,32.3,0
+415,TrustCo Bank,TRST,USA,0.54,28.89,0
+416,Heritage Commerce,HTBK,USA,0.54,9.01,0
+417,Mercantile Bank,MBWM,USA,0.54,34.04,0
+418,Northfield Bancorp,NFBK,USA,0.53,11.53,0
 419,"Capital City Bank Group
-",CCBG,🇺🇸 USA,0.53,31.22
+",CCBG,USA,0.53,31.22,0
 420,"Kearny Financial
-",KRNY,🇺🇸 USA,0.52,8.0
-421,Peapack-Gladstone Financial,PGC,🇺🇸 USA,0.51,28.08
-422,Southern Missouri Bancorp,SMBC,🇺🇸 USA,0.5,44.33
-423,Horizon Bancorp,HBNC,🇺🇸 USA,0.5,11.38
+",KRNY,USA,0.52,8.0,0
+421,Peapack-Gladstone Financial,PGC,USA,0.51,28.08,0
+422,Southern Missouri Bancorp,SMBC,USA,0.5,44.33,0
+423,Horizon Bancorp,HBNC,USA,0.5,11.38,0
 424,"Camden National Bank
-",CAC,🇺🇸 USA,0.5,34.37
-425,Washington Trust Bancorp,WASH,🇺🇸 USA,0.49,28.97
-426,MetroCity Bankshares,MCBS,🇺🇸 USA,0.48,19.36
-427,Grupo Supervielle,SUPV,🇦🇷 Argentina,0.48,2.7
-428,Luther Burbank,LBC,🇺🇸 USA,0.48,9.58
-429,Central Pacific Financial,CPF,🇺🇸 USA,0.46,17.38
-430,Metropolitan Bank Holding,MCB,🇺🇸 USA,0.46,42.5
+",CAC,USA,0.5,34.37,0
+425,Washington Trust Bancorp,WASH,USA,0.49,28.97,0
+426,MetroCity Bankshares,MCBS,USA,0.48,19.36,0
+427,Grupo Supervielle,SUPV,Argentina,0.48,2.7,0
+428,Luther Burbank,LBC,USA,0.48,9.58,0
+429,Central Pacific Financial,CPF,USA,0.46,17.38,0
+430,Metropolitan Bank Holding,MCB,USA,0.46,42.5,0
 431,"HarborOne Bancorp
-",HONE,🇺🇸 USA,0.46,9.99
-432,Cambridge Bancorp,CATC,🇺🇸 USA,0.43,56.12
+",HONE,USA,0.46,9.99,0
+432,Cambridge Bancorp,CATC,USA,0.43,56.12,0
 433,"Hingham Institution for Savings
-",HIFS,🇺🇸 USA,0.43,203.0
-434,Flushing Financial Corp,FFIC,🇺🇸 USA,0.43,14.92
-435,American National Bank & Trust Company,AMNB,🇺🇸 USA,0.42,40.12
+",HIFS,USA,0.43,203.0,0
+434,Flushing Financial Corp,FFIC,USA,0.43,14.92,0
+435,American National Bank & Trust Company,AMNB,USA,0.42,40.12,0
 436,"First Foundation
-",FFWM,🇺🇸 USA,0.41,7.35
-437,Bank Mayapada Internasional,MAYA.JK,🇮🇩 Indonesia,0.41,0.03
+",FFWM,USA,0.41,7.35,0
+437,Bank Mayapada Internasional,MAYA.JK,Indonesia,0.41,0.03,0
 438,"Oppenheimer Holdings
-",OPY,🇺🇸 USA,0.41,38.62
+",OPY,USA,0.41,38.62,0
 439,"HomeTrust Bancshares
-",HTBI,🇺🇸 USA,0.41,23.61
-440,Independent Bank (Michigan),IBCP,🇺🇸 USA,0.4,19.54
-441,SmartFinancial (SmartBank),SMBK,🇺🇸 USA,0.39,23.47
-442,CNB Financial Corp,CCNE,🇺🇸 USA,0.39,18.33
-443,Equity BancShares,EQBK,🇺🇸 USA,0.39,25.68
+",HTBI,USA,0.41,23.61,0
+440,Independent Bank (Michigan),IBCP,USA,0.4,19.54,0
+441,SmartFinancial (SmartBank),SMBK,USA,0.39,23.47,0
+442,CNB Financial Corp,CCNE,USA,0.39,18.33,0
+443,Equity BancShares,EQBK,USA,0.39,25.68,0
 444,"Bar Harbor Bankshares
-",BHB,🇺🇸 USA,0.38,25.68
-445,Five Star Bancorp,FSBC,🇺🇸 USA,0.38,22.5
-446,Alerus Financial,ALRS,🇺🇸 USA,0.37,18.82
-447,Shore Bancshares,SHBI,🇺🇸 USA,0.37,11.24
-448,Enterprise Bancorp,EBTC,🇺🇸 USA,0.36,30.03
-449,Mid Penn Bancorp,MPB,🇺🇸 USA,0.36,21.76
+",BHB,USA,0.38,25.68,0
+445,Five Star Bancorp,FSBC,USA,0.38,22.5,0
+446,Alerus Financial,ALRS,USA,0.37,18.82,0
+447,Shore Bancshares,SHBI,USA,0.37,11.24,0
+448,Enterprise Bancorp,EBTC,USA,0.36,30.03,0
+449,Mid Penn Bancorp,MPB,USA,0.36,21.76,0
 450,"MidWestOne Financial Group
-",MOFG,🇺🇸 USA,0.35,22.77
-451,Guaranty Bancshares,GNTY,🇺🇸 USA,0.35,30.49
-452,Northeast Bank,NBN,🇺🇸 USA,0.35,45.91
-453,Red River Bancshares,RRBI,🇺🇸 USA,0.35,48.97
-454,Penseco Financial Services,PFIS,🇺🇸 USA,0.32,45.35
-455,MVB Financial,MVBF,🇺🇸 USA,0.31,25.06
+",MOFG,USA,0.35,22.77,0
+451,Guaranty Bancshares,GNTY,USA,0.35,30.49,0
+452,Northeast Bank,NBN,USA,0.35,45.91,0
+453,Red River Bancshares,RRBI,USA,0.35,48.97,0
+454,Penseco Financial Services,PFIS,USA,0.32,45.35,0
+455,MVB Financial,MVBF,USA,0.31,25.06,0
 456,"Bank of Marin Bancorp
-",BMRC,🇺🇸 USA,0.31,19.73
-457,Macatawa Bank,MCBC,🇺🇸 USA,0.31,9.14
-458,Arrow Financial,AROW,🇺🇸 USA,0.31,18.84
-459,Sterling Bancorp,SBT,🇺🇸 USA,0.31,6.13
-460,West Bancorporation,WTBA,🇺🇸 USA,0.31,18.62
+",BMRC,USA,0.31,19.73,0
+457,Macatawa Bank,MCBC,USA,0.31,9.14,0
+458,Arrow Financial,AROW,USA,0.31,18.84,0
+459,Sterling Bancorp,SBT,USA,0.31,6.13,0
+460,West Bancorporation,WTBA,USA,0.31,18.62,0
 461,"Sierra Bancorp
-",BSRR,🇺🇸 USA,0.3,20.7
-462,Citizens & Northern Corp,CZNC,🇺🇸 USA,0.29,19.45
-463,Bridgewater Bancshares,BWB,🇺🇸 USA,0.28,10.38
-464,First Bancorp,FNLC,🇺🇸 USA,0.28,25.41
-465,CapStar Financial,CSTR,🇺🇸 USA,0.27,13.38
+",BSRR,USA,0.3,20.7,0
+462,Citizens & Northern Corp,CZNC,USA,0.29,19.45,0
+463,Bridgewater Bancshares,BWB,USA,0.28,10.38,0
+464,First Bancorp,FNLC,USA,0.28,25.41,0
+465,CapStar Financial,CSTR,USA,0.27,13.38,0
 466,"Civista Bancshares
-",CIVB,🇺🇸 USA,0.27,17.66
-467,Financial Institutions,FISI,🇺🇸 USA,0.27,18.08
+",CIVB,USA,0.27,17.66,0
+467,Financial Institutions,FISI,USA,0.27,18.08,0
 468,"ACNB Corporation
-",ACNB,🇺🇸 USA,0.27,32.6
-469,Greenhill,GHL,🇺🇸 USA,0.27,14.73
+",ACNB,USA,0.27,32.6,0
+469,Greenhill,GHL,USA,0.27,14.73,0
 470,"Home Bancorp
-",HBCP,🇺🇸 USA,0.27,33.19
-471,Orange County Bancorp,OBT,🇺🇸 USA,0.27,47.94
-472,Waterstone Financial,WSBF,🇺🇸 USA,0.26,12.63
+",HBCP,USA,0.27,33.19,0
+471,Orange County Bancorp,OBT,USA,0.27,47.94,0
+472,Waterstone Financial,WSBF,USA,0.26,12.63,0
 473,"Addiko Bank
-",ZYE1.F,🇦🇹 Austria,0.26,13.38
-474,Farmers & Merchants Bancorp,FMAO,🇺🇸 USA,0.26,19.44
-475,Third Coast Bancshares,TCBX,🇺🇸 USA,0.26,19.35
-476,RBB Bancorp,RBB,🇺🇸 USA,0.25,13.67
-477,First Business Financial Services,FBIZ,🇺🇸 USA,0.25,31.26
-478,Northrim BanCorp,NRIM,🇺🇸 USA,0.24,44.0
-479,Unity Bancorp,UNTY,🇺🇸 USA,0.24,24.43
-480,BayCom (United Business Bank),BCML,🇺🇸 USA,0.24,19.68
-481,Timberland Bancorp,TSBK,🇺🇸 USA,0.24,29.29
-482,Orrstown Financial Services,ORRF,🇺🇸 USA,0.23,22.48
-483,Banque nationale de Belgique,BNB.BR,🇧🇪 Belgium,0.23,598.09
-484,Bank7,BSVN,🇺🇸 USA,0.23,25.64
+",ZYE1.F,Austria,0.26,13.38,0
+474,Farmers & Merchants Bancorp,FMAO,USA,0.26,19.44,0
+475,Third Coast Bancshares,TCBX,USA,0.26,19.35,0
+476,RBB Bancorp,RBB,USA,0.25,13.67,0
+477,First Business Financial Services,FBIZ,USA,0.25,31.26,0
+478,Northrim BanCorp,NRIM,USA,0.24,44.0,0
+479,Unity Bancorp,UNTY,USA,0.24,24.43,0
+480,BayCom (United Business Bank),BCML,USA,0.24,19.68,0
+481,Timberland Bancorp,TSBK,USA,0.24,29.29,0
+482,Orrstown Financial Services,ORRF,USA,0.23,22.48,0
+483,Banque nationale de Belgique,BNB.BR,Belgium,0.23,598.09,0
+484,Bank7,BSVN,USA,0.23,25.64,0
 485,"Middlefield Banc
-",MBCN,🇺🇸 USA,0.23,28.69
-486,Southern First Bancshares,SFST,🇺🇸 USA,0.22,28.45
-487,Primis Financial,FRST,🇺🇸 USA,0.22,9.12
-488,VersaBank,VBNK,🇨🇦 Canada,0.21,8.19
-489,Parke Bancorp,PKBK,🇺🇸 USA,0.21,17.69
-490,Ponce Financial Group,PDLB,🇺🇸 USA,0.2,8.39
-491,Plumas Bancorp,PLBC,🇺🇸 USA,0.2,35.56
-492,Southern States Bancshares,SSBK,🇺🇸 USA,0.2,23.41
-493,Codorus Valley Bancorp,CVLY,🇺🇸 USA,0.2,21.2
-494,Bankwell Financial Group,BWFG,🇺🇸 USA,0.2,25.76
-495,Virginia National Bankshares,VABK,🇺🇸 USA,0.19,36.44
-496,BCB Bancorp,BCBP,🇺🇸 USA,0.19,11.64
-497,First Western Financial,MYFW,🇺🇸 USA,0.19,19.95
+",MBCN,USA,0.23,28.69,0
+486,Southern First Bancshares,SFST,USA,0.22,28.45,0
+487,Primis Financial,FRST,USA,0.22,9.12,0
+488,VersaBank,VBNK,Canada,0.21,8.19,0
+489,Parke Bancorp,PKBK,USA,0.21,17.69,0
+490,Ponce Financial Group,PDLB,USA,0.2,8.39,0
+491,Plumas Bancorp,PLBC,USA,0.2,35.56,0
+492,Southern States Bancshares,SSBK,USA,0.2,23.41,0
+493,Codorus Valley Bancorp,CVLY,USA,0.2,21.2,0
+494,Bankwell Financial Group,BWFG,USA,0.2,25.76,0
+495,Virginia National Bankshares,VABK,USA,0.19,36.44,0
+496,BCB Bancorp,BCBP,USA,0.19,11.64,0
+497,First Western Financial,MYFW,USA,0.19,19.95,0
 498,"C&F Financial Corporation
-",CFFI,🇺🇸 USA,0.18,55.2
-499,Penns Woods Bancorp,PWOD,🇺🇸 USA,0.18,26.1
-500,Princeton Bancorp,BPRN,🇺🇸 USA,0.18,29.37
-501,Absa Bank,ABSP.JO,🇿🇦 South Africa,0.18,40.82
-502,HomeStreet Bank,HMST,🇺🇸 USA,0.18,9.72
-503,ESSA Bancorp,ESSA,🇺🇸 USA,0.17,16.63
-504,MainStreet Bancshares,MNSB,🇺🇸 USA,0.17,22.99
+",CFFI,USA,0.18,55.2,0
+499,Penns Woods Bancorp,PWOD,USA,0.18,26.1,0
+500,Princeton Bancorp,BPRN,USA,0.18,29.37,0
+501,Absa Bank,ABSP.JO,South Africa,0.18,40.82,0
+502,HomeStreet Bank,HMST,USA,0.18,9.72,0
+503,ESSA Bancorp,ESSA,USA,0.17,16.63,0
+504,MainStreet Bancshares,MNSB,USA,0.17,22.99,0
 505,"Central Valley Community Bancorp
-",CVCY,🇺🇸 USA,0.16,14.15
+",CVCY,USA,0.16,14.15,0
 506,"Provident Bancorp
-",PVBC,🇺🇸 USA,0.16,9.42
-507,Ames National Corp.,ATLO,🇺🇸 USA,0.16,18.41
-508,Salisbury Bancorp,SAL,🇺🇸 USA,0.16,27.88
-509,Evans Bancorp,EVBN,🇺🇸 USA,0.16,29.43
-510,William Penn Bancorp,WMPN,🇺🇸 USA,0.15,12.25
-511,California BanCorp,CALB,🇺🇸 USA,0.15,18.66
-512,Community Financial Corporation,TCFC,🇺🇸 USA,0.15,27.09
-513,OP Bancorp (Open Bank),OPBK,🇺🇸 USA,0.14,9.7
-514,Western New England Bancorp,WNEB,🇺🇸 USA,0.14,6.37
-515,Partners Bancorp,PTRS,🇺🇸 USA,0.13,7.58
-516,Hanover Bancorp,HNVR,🇺🇸 USA,0.13,18.69
+",PVBC,USA,0.16,9.42,0
+507,Ames National Corp.,ATLO,USA,0.16,18.41,0
+508,Salisbury Bancorp,SAL,USA,0.16,27.88,0
+509,Evans Bancorp,EVBN,USA,0.16,29.43,0
+510,William Penn Bancorp,WMPN,USA,0.15,12.25,0
+511,California BanCorp,CALB,USA,0.15,18.66,0
+512,Community Financial Corporation,TCFC,USA,0.15,27.09,0
+513,OP Bancorp (Open Bank),OPBK,USA,0.14,9.7,0
+514,Western New England Bancorp,WNEB,USA,0.14,6.37,0
+515,Partners Bancorp,PTRS,USA,0.13,7.58,0
+516,Hanover Bancorp,HNVR,USA,0.13,18.69,0
 517,"Investar Holding
-",ISTR,🇺🇸 USA,0.13,13.47
-518,FinWise Bancorp,FINW,🇺🇸 USA,0.13,10.19
-519,Richmond Mutual Bancorporation,RMBI,🇺🇸 USA,0.13,11.28
+",ISTR,USA,0.13,13.47,0
+518,FinWise Bancorp,FINW,USA,0.13,10.19,0
+519,Richmond Mutual Bancorporation,RMBI,USA,0.13,11.28,0
 520,"Malvern Bancorp
-",MLVF,🇺🇸 USA,0.12,16.97
-521,First Guaranty Bancshares,FGBI,🇺🇸 USA,0.12,11.21
-522,Riverview Bancorp,RVSB,🇺🇸 USA,0.12,5.93
-523,First Northwest Bancorp,FNWB,🇺🇸 USA,0.12,12.85
-524,Ohio Valley Banc Corp,OVBC,🇺🇸 USA,0.12,25.95
-525,Hawthorn Bancshares,HWBK,🇺🇸 USA,0.12,17.14
-526,Summit State Bank,SSBI,🇺🇸 USA,0.11,17.25
-527,BankFinancial,BFIN,🇺🇸 USA,0.11,8.8
-528,Peoples Bancorp of North Carolina,PEBK,🇺🇸 USA,0.11,19.9
-529,ECB Bancorp,ECBK,🇺🇸 USA,0.1,11.82
-530,Provident Financial Holdings,PROV,🇺🇸 USA,0.09747,13.88
+",MLVF,USA,0.12,16.97,0
+521,First Guaranty Bancshares,FGBI,USA,0.12,11.21,0
+522,Riverview Bancorp,RVSB,USA,0.12,5.93,0
+523,First Northwest Bancorp,FNWB,USA,0.12,12.85,0
+524,Ohio Valley Banc Corp,OVBC,USA,0.12,25.95,0
+525,Hawthorn Bancshares,HWBK,USA,0.12,17.14,0
+526,Summit State Bank,SSBI,USA,0.11,17.25,0
+527,BankFinancial,BFIN,USA,0.11,8.8,0
+528,Peoples Bancorp of North Carolina,PEBK,USA,0.11,19.9,0
+529,ECB Bancorp,ECBK,USA,0.1,11.82,0
+530,Provident Financial Holdings,PROV,USA,0.09747,13.88,0
 531,"Territorial Bancorp
-",TBNK,🇺🇸 USA,0.09487,10.63
-532,Union Bankshares,UNB,🇺🇸 USA,0.09366,20.78
-533,Old Point Financial,OPOF,🇺🇸 USA,0.08782,17.56
-534,Pathfinder Bancorp,PBHC,🇺🇸 USA,0.07833,12.94
-535,Village Bank and Trust Financial,VBFC,🇺🇸 USA,0.07057,47.5
-536,Home Federal Bancorp (HFB Bank),HFBL,🇺🇸 USA,0.0481,15.4
-537,Republic First Bancorp,FRBK,🇺🇸 USA,0.047,0.67
-538,Silvergate Capital,SI,🇺🇸 USA,0.03957,1.25
-539,Carver Bancorp,CARV,🇺🇸 USA,0.01213,2.48
+",TBNK,USA,0.09487,10.63,0
+532,Union Bankshares,UNB,USA,0.09366,20.78,0
+533,Old Point Financial,OPOF,USA,0.08782,17.56,0
+534,Pathfinder Bancorp,PBHC,USA,0.07833,12.94,0
+535,Village Bank and Trust Financial,VBFC,USA,0.07057,47.5,0
+536,Home Federal Bancorp (HFB Bank),HFBL,USA,0.0481,15.4,0
+537,Republic First Bancorp,FRBK,USA,0.047,0.67,0
+538,Silvergate Capital,SI,USA,0.03957,1.25,0
+539,Carver Bancorp,CARV,USA,0.01213,2.48,0
 540,"Signature Bank
-",SBNY,🇺🇸 USA,0.00207,0.033
-541,Sberbank,SBER.ME,🇷🇺 Russia,0,1.95
-542,Emirates NBD Bank PJSC,EMIRATESNBD.AE,🇦🇪 UAE,0,0
+",SBNY,USA,0.00207,0.033,0
+541,Sberbank,SBER.ME,Russia,0,1.95,0
+542,Emirates NBD Bank PJSC,EMIRATESNBD.AE,UAE,0,0,0
