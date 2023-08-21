@@ -7,15 +7,15 @@ import csv
 # Če na spletni strani ni podatkov o tržnem kapitali oz. ceni delnice (je N/A), funkcija vrne 0
 def uredi_trg(trg_niz):
     if trg_niz.endswith("B"):
-        return float(trg_niz.replace("$", "").replace(" B", ""))
+        return round(float(trg_niz.replace("$", "").replace(" B", "")), 5)
     elif trg_niz.endswith("M"):
-        return float(trg_niz.replace("$", "").replace(" M", "")) / 1000  
+        return round(float(trg_niz.replace("$", "").replace(" M", "")) / 1000, 5) 
     else:
         return 0
 
 def uredi_ceno_delnice(delnica_niz):
     if delnica_niz.startswith("$"):
-        return float(delnica_niz.replace("$", "").replace(",", ""))
+        return round(float(delnica_niz.replace("$", "").replace(",", "")), 5)
     else:
         return 0
 
