@@ -49,16 +49,12 @@ for filename in os.listdir(html_files_directory):
             trzni_kapital_stevilo = uredi_trg(trzni_kapital)
             cena_delnice_stevilo = uredi_ceno_delnice(cena_delnice)
 
-            dnevna_rast = 0           
-        
-
-
-            banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital_stevilo, cena_delnice_stevilo, dnevna_rast])
+            banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital_stevilo, cena_delnice_stevilo])
 
 banke.sort(key=lambda x: int(x[0]))
 # Zapis CSV datoteke.
 csv_file_path = "banke.csv"
 with open(csv_file_path, "w", newline="") as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(["Mesto", "Naziv", "Šifra podjetja", "Država", "Tržna kapitalizacija (milijarde $)", "Cena na delnico ($)", "Dnevna rast (%)"])
+    csv_writer.writerow(["Mesto", "Naziv", "Šifra podjetja", "Država", "Tržna kapitalizacija (milijarde $)", "Cena na delnico ($)"])
     csv_writer.writerows(banke)
