@@ -31,7 +31,6 @@ for filename in os.listdir(html_files_directory):
         html_content = file.read()
         juha = BeautifulSoup(html_content, "html.parser")
             
-        # Find all rows with class "name-td"
         vse_banke = juha.find_all("td", class_="name-td")
             
         for banka in vse_banke:
@@ -40,14 +39,12 @@ for filename in os.listdir(html_files_directory):
             sifra_podjetja = banka.find("div", class_="company-code").get_text()
             drzava = banka.find_next("td", class_=None).get_text()
             
-
-            td_right_elements = banka.find_all_next("td", class_="td-right")
+            td_right = banka.find_all_next("td", class_="td-right")
             
-            trzni_kapital = td_right_elements[0].get_text()
-            cena_delnice = td_right_elements[1].get_text()
+            trzni_kapital = td_right[0].get_text()
+            cena_delnice = td_right[1].get_text()
         
             trzni_kapital_stevilo = uredi_trg(trzni_kapital)
-            
             cena_delnice_stevilo = uredi_ceno_delnice(cena_delnice)
         
             banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital_stevilo, cena_delnice_stevilo])
