@@ -5,11 +5,11 @@ import csv
 
 # Dobljen niz pretvori v število, znebi se znakov za milijarde, milijone in dolarje
 # Če na spletni strani ni podatkov o tržnem kapitali oz. ceni delnice (je N/A), funkcija vrne 0
-def uredi_trzni_kapital(trzni_niz):
-    if trzni_niz.endswith("B"):
-        return float(trzni_niz.replace("$", "").replace(" B", ""))
-    elif trzni_niz.endswith("M"):
-        return float(trzni_niz.replace("$", "").replace(" M", "")) / 1000  
+def uredi_trg(trg_niz):
+    if trg_niz.endswith("B"):
+        return float(trg_niz.replace("$", "").replace(" B", ""))
+    elif trg_niz.endswith("M"):
+        return float(trg_niz.replace("$", "").replace(" M", "")) / 1000  
     else:
         return 0
 
@@ -46,11 +46,11 @@ for filename in os.listdir(html_files_directory):
             trzni_kapital = td_right_elements[0].get_text()
             cena_delnice = td_right_elements[1].get_text()
         
-            trzni_kapital_stevilo = uredi_trzni_kapital(trzni_kapital)
+            trzni_kapital_stevilo = uredi_trg(trzni_kapital)
             
             cena_delnice_stevilo = uredi_ceno_delnice(cena_delnice)
         
-            banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital, cena_delnice_stevilo])
+            banke.append([mesto, naziv, sifra_podjetja, drzava, trzni_kapital_stevilo, cena_delnice_stevilo])
 
 banke.sort(key=lambda x: int(x[0]))
 # Zapis CSV datoteke.
