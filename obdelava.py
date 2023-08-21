@@ -3,7 +3,6 @@ import os
 import csv
 import re
 
-
 # Dobljen niz pretvori v število, znebi se znakov za milijarde, milijone in dolarje
 # Če na spletni strani ni podatkov o tržnem kapitali oz. ceni delnice (je N/A), funkcija vrne 0
 def uredi_trg(trg_niz):
@@ -20,11 +19,9 @@ def uredi_ceno_delnice(delnica_niz):
     else:
         return 0
 
-# Seznam podatkov bank
 banke = []
 
 html_files_directory = "strani" 
-
 
 for filename in os.listdir(html_files_directory):
     file_path = os.path.join(html_files_directory, filename)
@@ -40,7 +37,6 @@ for filename in os.listdir(html_files_directory):
             sifra_podjetja = banka.find("div", class_="company-code").get_text().strip()
             drzava = banka.find_next("span", class_="responsive-hidden").get_text().strip()
                  
-
             td_right = banka.find_all_next("td", class_="td-right")
             
             trzni_kapital = td_right[0].get_text()
